@@ -1,0 +1,13 @@
+title: dana · 大拿
+description: 研究大拿 · 成为大拿
+theme: jekyll-theme-cayman
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - ROADMAP.md

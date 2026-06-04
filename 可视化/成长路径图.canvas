@@ -1,0 +1,89 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "text": "技术人成长路径图",
+      "x": 100,
+      "y": -350,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "stage1",
+      "type": "group",
+      "label": "0-3年：根基期",
+      "x": -400,
+      "y": -150,
+      "width": 280,
+      "height": 280,
+      "color": "#e3f2fd"
+    },
+    {
+      "id": "stage2",
+      "type": "group",
+      "label": "3-7年：突破期（最关键）",
+      "x": 0,
+      "y": -150,
+      "width": 320,
+      "height": 280,
+      "color": "#fff8e1"
+    },
+    {
+      "id": "stage3",
+      "type": "group",
+      "label": "7-12年+：专家与领导力",
+      "x": 450,
+      "y": -150,
+      "width": 300,
+      "height": 280,
+      "color": "#e8f5e9"
+    },
+    {
+      "id": "s1-content",
+      "type": "text",
+      "text": "• 写出高质量代码\n• 全链路排查能力\n• 读懂真实系统\n• 建立技术直觉",
+      "x": -380,
+      "y": -80,
+      "width": 240,
+      "height": 180
+    },
+    {
+      "id": "s2-content",
+      "type": "text",
+      "text": "• 垂直打透一个领域\n• 主动做难事\n• 第一次影响力输出\n• 系统思维成型\n\n关键心法：\n[[做难事：突破舒适区]]\n[[项目驱动学习法]]\n[[系统思维与全链路视角]]",
+      "x": 20,
+      "y": -100,
+      "width": 280,
+      "height": 220
+    },
+    {
+      "id": "s3-content",
+      "type": "text",
+      "text": "• 定义问题而非只解决问题\n• 培养后辈与文化\n• 多领域梳型扩展\n• 组织内外影响力",
+      "x": 470,
+      "y": -80,
+      "width": 260,
+      "height": 180
+    },
+    {
+      "id": "arrow1",
+      "type": "text",
+      "text": "→",
+      "x": -80,
+      "y": 0,
+      "width": 60,
+      "height": 40
+    },
+    {
+      "id": "arrow2",
+      "type": "text",
+      "text": "→",
+      "x": 360,
+      "y": 0,
+      "width": 60,
+      "height": 40
+    }
+  ],
+  "edges": []
+}

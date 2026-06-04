@@ -1,0 +1,108 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "text": "大拿影响力网络（简化版）",
+      "x": 200,
+      "y": -300,
+      "width": 350,
+      "height": 60
+    },
+    {
+      "id": "liyunhua",
+      "type": "text",
+      "text": "[[李运华]]",
+      "x": -300,
+      "y": -100,
+      "width": 140,
+      "height": 50
+    },
+    {
+      "id": "zuozhe",
+      "type": "text",
+      "text": "[[左耳朵耗子]]",
+      "x": -50,
+      "y": -100,
+      "width": 160,
+      "height": 50
+    },
+    {
+      "id": "rich",
+      "type": "text",
+      "text": "[[Rich Hickey]]",
+      "x": 200,
+      "y": -100,
+      "width": 140,
+      "height": 50
+    },
+    {
+      "id": "evan",
+      "type": "text",
+      "text": "[[尤雨溪]]",
+      "x": 450,
+      "y": -100,
+      "width": 140,
+      "height": 50
+    },
+    {
+      "id": "output",
+      "type": "text",
+      "text": "[[输出倒逼输入]]",
+      "x": 100,
+      "y": 80,
+      "width": 180,
+      "height": 50
+    },
+    {
+      "id": "influence",
+      "type": "text",
+      "text": "[[影响力 = 深度 × 持续输出 × 连接]]",
+      "x": 320,
+      "y": 80,
+      "width": 280,
+      "height": 50
+    },
+    {
+      "id": "hard",
+      "type": "text",
+      "text": "[[做难事：突破舒适区]]",
+      "x": -150,
+      "y": 80,
+      "width": 200,
+      "height": 50
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "liyunhua",
+      "toNode": "hard"
+    },
+    {
+      "id": "e2",
+      "fromNode": "liyunhua",
+      "toNode": "output"
+    },
+    {
+      "id": "e3",
+      "fromNode": "zuozhe",
+      "toNode": "output"
+    },
+    {
+      "id": "e4",
+      "fromNode": "rich",
+      "toNode": "output"
+    },
+    {
+      "id": "e5",
+      "fromNode": "evan",
+      "toNode": "influence"
+    },
+    {
+      "id": "e6",
+      "fromNode": "zuozhe",
+      "toNode": "influence"
+    }
+  ]
+}
