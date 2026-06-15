@@ -44,8 +44,18 @@ def find_canvas_files():
 
 
 def extract_wikilinks(content):
-    """提取 [[...]] 格式的 wikilinks，返回 (link_text, display_text) 列表"""
-    # 匹配 [[link]] 或 [[link|display]]
+    """提取 [[...]] 格式的 wikilinks，排除代码块和行内代码中的内容"""
+    # 步骤1：临时替换代码块（```...```）
+    code_blocks = re.findall(r'```[\s\S]*?```', content)
+    for i, block in enumerate(code_blocks):
+        content = content.replace(block, f'__CODE_BLOCK_{i}__', 1)
+
+    # 步骤2：临时替换行内代码（`...`）
+    inline_codes = re.findall(r'`[^`]+`', content)
+    for i, code in enumerate(inline_codes):
+        content = content.replace(code, f'__INLINE_CODE_{i}__', 1)
+
+    # 步骤3：提取 wikilinks
     pattern = r'\[\[([^\]|]+)(?:\|([^\]]+))?\]\]'
     matches = re.findall(pattern, content)
     results = []
@@ -57,10 +67,11 @@ def extract_wikilinks(content):
 
 
 def get_existing_pages(md_files):
-    """获取所有存在的页面名（基于文件名和 frontmatter aliases）"""
+    """获取所有存在的页面名（基于文件名、frontmatter aliases 和 Canvas 文件）"""
     existing = set()
     alias_map = {}  # alias -> source file
 
+    # Markdown 文件
     for rel_path in md_files:
         full_path = ROOT / rel_path
         # 文件名（不含扩展名）作为页面名
@@ -79,6 +90,15 @@ def get_existing_pages(md_files):
                         alias_map[alias] = str(rel_path)
             except Exception:
                 pass
+
+    # Canvas 文件（Obsidian 中 wikilink 可链接到 .canvas）
+    for canvas_path in ROOT.rglob('*.canvas'):
+        rel = canvas_path.relative_to(ROOT)
+        if any(part in IGNORE_DIRS for part in rel.parts[:-1]):
+            continue
+        # 支持 [[文件名]] 和 [[目录/文件名]] 两种形式
+        existing.add(rel.stem)
+        existing.add(str(rel.with_suffix('')))
 
     return existing, alias_map
 
