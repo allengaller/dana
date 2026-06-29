@@ -1,0 +1,6021 @@
+[
+  {
+    "name_en": "Bill Gates",
+    "name_cn": "比尔·盖茨",
+    "aliases": [
+      "William H. Gates III",
+      "William Henry Gates III"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Microsoft",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 1,
+        "net_worth_usd": 60
+      },
+      {
+        "year": 2001,
+        "rank": 1,
+        "net_worth_usd": 58.7
+      },
+      {
+        "year": 2002,
+        "rank": 1,
+        "net_worth_usd": 52.8
+      },
+      {
+        "year": 2003,
+        "rank": 1,
+        "net_worth_usd": 40.7
+      },
+      {
+        "year": 2004,
+        "rank": 1,
+        "net_worth_usd": 46.6
+      },
+      {
+        "year": 2005,
+        "rank": 1,
+        "net_worth_usd": 46.5
+      },
+      {
+        "year": 2006,
+        "rank": 1,
+        "net_worth_usd": 50
+      },
+      {
+        "year": 2007,
+        "rank": 1,
+        "net_worth_usd": 56
+      },
+      {
+        "year": 2008,
+        "rank": 3,
+        "net_worth_usd": 58
+      },
+      {
+        "year": 2009,
+        "rank": 1,
+        "net_worth_usd": 40
+      },
+      {
+        "year": 2010,
+        "rank": 2,
+        "net_worth_usd": 53
+      },
+      {
+        "year": 2011,
+        "rank": 2,
+        "net_worth_usd": 56
+      },
+      {
+        "year": 2012,
+        "rank": 2,
+        "net_worth_usd": 61
+      },
+      {
+        "year": 2013,
+        "rank": 2,
+        "net_worth_usd": 67
+      },
+      {
+        "year": 2014,
+        "rank": 1,
+        "net_worth_usd": 76
+      },
+      {
+        "year": 2015,
+        "rank": 1,
+        "net_worth_usd": 79.2
+      },
+      {
+        "year": 2016,
+        "rank": 1,
+        "net_worth_usd": 75
+      },
+      {
+        "year": 2017,
+        "rank": 1,
+        "net_worth_usd": 86
+      },
+      {
+        "year": 2018,
+        "rank": 2,
+        "net_worth_usd": 90
+      },
+      {
+        "year": 2019,
+        "rank": 2,
+        "net_worth_usd": 97.7
+      },
+      {
+        "year": 2020,
+        "rank": 2,
+        "net_worth_usd": 98
+      },
+      {
+        "year": 2021,
+        "rank": 4,
+        "net_worth_usd": 144
+      },
+      {
+        "year": 2022,
+        "rank": 4,
+        "net_worth_usd": 129
+      },
+      {
+        "year": 2023,
+        "rank": 4,
+        "net_worth_usd": 114
+      },
+      {
+        "year": 2024,
+        "rank": 6,
+        "net_worth_usd": 164
+      },
+      {
+        "year": 2025,
+        "rank": 7,
+        "net_worth_usd": 162
+      }
+    ],
+    "peak_rank": 1,
+    "peak_net_worth": 164,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "连续多年全球首富（2000-2007, 2009, 2014-2017），微软联合创始人"
+  },
+  {
+    "name_en": "Warren Buffett",
+    "name_cn": "沃伦·巴菲特",
+    "aliases": [
+      "Warren E. Buffett"
+    ],
+    "country": "美国",
+    "industry": "金融",
+    "main_company": "Berkshire Hathaway",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 4,
+        "net_worth_usd": 25.6
+      },
+      {
+        "year": 2001,
+        "rank": 2,
+        "net_worth_usd": 32.3
+      },
+      {
+        "year": 2002,
+        "rank": 2,
+        "net_worth_usd": 35
+      },
+      {
+        "year": 2003,
+        "rank": 2,
+        "net_worth_usd": 30.5
+      },
+      {
+        "year": 2004,
+        "rank": 2,
+        "net_worth_usd": 42.9
+      },
+      {
+        "year": 2005,
+        "rank": 2,
+        "net_worth_usd": 44
+      },
+      {
+        "year": 2006,
+        "rank": 2,
+        "net_worth_usd": 42
+      },
+      {
+        "year": 2007,
+        "rank": 2,
+        "net_worth_usd": 52
+      },
+      {
+        "year": 2008,
+        "rank": 1,
+        "net_worth_usd": 62
+      },
+      {
+        "year": 2009,
+        "rank": 2,
+        "net_worth_usd": 37
+      },
+      {
+        "year": 2010,
+        "rank": 3,
+        "net_worth_usd": 47
+      },
+      {
+        "year": 2011,
+        "rank": 3,
+        "net_worth_usd": 50
+      },
+      {
+        "year": 2012,
+        "rank": 3,
+        "net_worth_usd": 44
+      },
+      {
+        "year": 2013,
+        "rank": 4,
+        "net_worth_usd": 53.5
+      },
+      {
+        "year": 2014,
+        "rank": 4,
+        "net_worth_usd": 58.2
+      },
+      {
+        "year": 2015,
+        "rank": 3,
+        "net_worth_usd": 72.7
+      },
+      {
+        "year": 2016,
+        "rank": 3,
+        "net_worth_usd": 60.8
+      },
+      {
+        "year": 2017,
+        "rank": 2,
+        "net_worth_usd": 75.6
+      },
+      {
+        "year": 2018,
+        "rank": 3,
+        "net_worth_usd": 84
+      },
+      {
+        "year": 2019,
+        "rank": 3,
+        "net_worth_usd": 82
+      },
+      {
+        "year": 2020,
+        "rank": 4,
+        "net_worth_usd": 67.5
+      },
+      {
+        "year": 2021,
+        "rank": 7,
+        "net_worth_usd": 109
+      },
+      {
+        "year": 2022,
+        "rank": 5,
+        "net_worth_usd": 118
+      },
+      {
+        "year": 2023,
+        "rank": 5,
+        "net_worth_usd": 107
+      },
+      {
+        "year": 2024,
+        "rank": 8,
+        "net_worth_usd": 151
+      },
+      {
+        "year": 2025,
+        "rank": 6,
+        "net_worth_usd": 168
+      }
+    ],
+    "peak_rank": 1,
+    "peak_net_worth": 168,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "2008年全球首富，伯克希尔·哈撒韦CEO，投资界传奇"
+  },
+  {
+    "name_en": "Bernard Arnault",
+    "name_cn": "贝尔纳·阿尔诺",
+    "aliases": [
+      "Bernard Arnault & family"
+    ],
+    "country": "法国",
+    "industry": "奢侈品",
+    "main_company": "LVMH",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 16,
+        "net_worth_usd": 12.6
+      },
+      {
+        "year": 2001,
+        "rank": 26,
+        "net_worth_usd": 10.7
+      },
+      {
+        "year": 2002,
+        "rank": 36,
+        "net_worth_usd": 7
+      },
+      {
+        "year": 2004,
+        "rank": 21,
+        "net_worth_usd": 12.2
+      },
+      {
+        "year": 2005,
+        "rank": 17,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2006,
+        "rank": 7,
+        "net_worth_usd": 21.5
+      },
+      {
+        "year": 2007,
+        "rank": 7,
+        "net_worth_usd": 26
+      },
+      {
+        "year": 2008,
+        "rank": 13,
+        "net_worth_usd": 25.5
+      },
+      {
+        "year": 2009,
+        "rank": 15,
+        "net_worth_usd": 16.5
+      },
+      {
+        "year": 2010,
+        "rank": 7,
+        "net_worth_usd": 27.5
+      },
+      {
+        "year": 2011,
+        "rank": 4,
+        "net_worth_usd": 41
+      },
+      {
+        "year": 2012,
+        "rank": 4,
+        "net_worth_usd": 41
+      },
+      {
+        "year": 2013,
+        "rank": 10,
+        "net_worth_usd": 29
+      },
+      {
+        "year": 2014,
+        "rank": 15,
+        "net_worth_usd": 33.5
+      },
+      {
+        "year": 2015,
+        "rank": 13,
+        "net_worth_usd": 37.2
+      },
+      {
+        "year": 2016,
+        "rank": 14,
+        "net_worth_usd": 34
+      },
+      {
+        "year": 2017,
+        "rank": 11,
+        "net_worth_usd": 41.5
+      },
+      {
+        "year": 2018,
+        "rank": 4,
+        "net_worth_usd": 72
+      },
+      {
+        "year": 2019,
+        "rank": 4,
+        "net_worth_usd": 81.8
+      },
+      {
+        "year": 2020,
+        "rank": 3,
+        "net_worth_usd": 76
+      },
+      {
+        "year": 2021,
+        "rank": 2,
+        "net_worth_usd": 173
+      },
+      {
+        "year": 2022,
+        "rank": 3,
+        "net_worth_usd": 158
+      },
+      {
+        "year": 2023,
+        "rank": 1,
+        "net_worth_usd": 187
+      },
+      {
+        "year": 2024,
+        "rank": 5,
+        "net_worth_usd": 168
+      },
+      {
+        "year": 2025,
+        "rank": 4,
+        "net_worth_usd": 169
+      }
+    ],
+    "peak_rank": 1,
+    "peak_net_worth": 187,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "2023年全球首富，LVMH集团掌门人，奢侈品行业巨头"
+  },
+  {
+    "name_en": "Larry Ellison",
+    "name_cn": "拉里·埃里森",
+    "aliases": [
+      "Lawrence Ellison",
+      "Lawrence Joseph Ellison"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Oracle",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 2,
+        "net_worth_usd": 47
+      },
+      {
+        "year": 2001,
+        "rank": 4,
+        "net_worth_usd": 26
+      },
+      {
+        "year": 2002,
+        "rank": 5,
+        "net_worth_usd": 23.5
+      },
+      {
+        "year": 2003,
+        "rank": 6,
+        "net_worth_usd": 16.6
+      },
+      {
+        "year": 2004,
+        "rank": 12,
+        "net_worth_usd": 18.7
+      },
+      {
+        "year": 2005,
+        "rank": 9,
+        "net_worth_usd": 18.4
+      },
+      {
+        "year": 2006,
+        "rank": 15,
+        "net_worth_usd": 16
+      },
+      {
+        "year": 2007,
+        "rank": 11,
+        "net_worth_usd": 21.5
+      },
+      {
+        "year": 2008,
+        "rank": 14,
+        "net_worth_usd": 25
+      },
+      {
+        "year": 2009,
+        "rank": 4,
+        "net_worth_usd": 22.5
+      },
+      {
+        "year": 2010,
+        "rank": 6,
+        "net_worth_usd": 28
+      },
+      {
+        "year": 2011,
+        "rank": 5,
+        "net_worth_usd": 39.5
+      },
+      {
+        "year": 2012,
+        "rank": 6,
+        "net_worth_usd": 36
+      },
+      {
+        "year": 2013,
+        "rank": 5,
+        "net_worth_usd": 43
+      },
+      {
+        "year": 2014,
+        "rank": 5,
+        "net_worth_usd": 48
+      },
+      {
+        "year": 2015,
+        "rank": 5,
+        "net_worth_usd": 54.3
+      },
+      {
+        "year": 2016,
+        "rank": 7,
+        "net_worth_usd": 43.6
+      },
+      {
+        "year": 2017,
+        "rank": 7,
+        "net_worth_usd": 52.2
+      },
+      {
+        "year": 2018,
+        "rank": 10,
+        "net_worth_usd": 58.5
+      },
+      {
+        "year": 2019,
+        "rank": 7,
+        "net_worth_usd": 56.4
+      },
+      {
+        "year": 2021,
+        "rank": 9,
+        "net_worth_usd": 95.7
+      },
+      {
+        "year": 2022,
+        "rank": 6,
+        "net_worth_usd": 106
+      },
+      {
+        "year": 2023,
+        "rank": 6,
+        "net_worth_usd": 100
+      },
+      {
+        "year": 2024,
+        "rank": 4,
+        "net_worth_usd": 197
+      },
+      {
+        "year": 2025,
+        "rank": 5,
+        "net_worth_usd": 168
+      }
+    ],
+    "peak_rank": 2,
+    "peak_net_worth": 197,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "甲骨文联合创始人，长期稳居全球前十"
+  },
+  {
+    "name_en": "S. Robson Walton",
+    "name_cn": "罗布·沃尔顿",
+    "aliases": [
+      "Rob Walton",
+      "S Robson Walton"
+    ],
+    "country": "美国",
+    "industry": "零售",
+    "main_company": "Walmart",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 7,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2001,
+        "rank": 9,
+        "net_worth_usd": 18.6
+      },
+      {
+        "year": 2002,
+        "rank": 8,
+        "net_worth_usd": 20.5
+      },
+      {
+        "year": 2003,
+        "rank": 7,
+        "net_worth_usd": 16.5
+      },
+      {
+        "year": 2004,
+        "rank": 6,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2005,
+        "rank": 10,
+        "net_worth_usd": 18.3
+      },
+      {
+        "year": 2006,
+        "rank": 19,
+        "net_worth_usd": 15.8
+      },
+      {
+        "year": 2007,
+        "rank": 24,
+        "net_worth_usd": 16.7
+      },
+      {
+        "year": 2008,
+        "rank": 26,
+        "net_worth_usd": 19.2
+      },
+      {
+        "year": 2009,
+        "rank": 12,
+        "net_worth_usd": 17.6
+      },
+      {
+        "year": 2010,
+        "rank": 18,
+        "net_worth_usd": 19.8
+      },
+      {
+        "year": 2011,
+        "rank": 22,
+        "net_worth_usd": 21
+      },
+      {
+        "year": 2012,
+        "rank": 18,
+        "net_worth_usd": 23.1
+      },
+      {
+        "year": 2013,
+        "rank": 17,
+        "net_worth_usd": 26.1
+      },
+      {
+        "year": 2014,
+        "rank": 14,
+        "net_worth_usd": 34.2
+      },
+      {
+        "year": 2015,
+        "rank": 12,
+        "net_worth_usd": 39.1
+      },
+      {
+        "year": 2016,
+        "rank": 17,
+        "net_worth_usd": 31.9
+      },
+      {
+        "year": 2017,
+        "rank": 15,
+        "net_worth_usd": 34.1
+      },
+      {
+        "year": 2018,
+        "rank": 15,
+        "net_worth_usd": 46.2
+      },
+      {
+        "year": 2019,
+        "rank": 14,
+        "net_worth_usd": 45.6
+      },
+      {
+        "year": 2021,
+        "rank": 19,
+        "net_worth_usd": 62.3
+      },
+      {
+        "year": 2022,
+        "rank": 14,
+        "net_worth_usd": 68
+      },
+      {
+        "year": 2023,
+        "rank": 18,
+        "net_worth_usd": 63.7
+      },
+      {
+        "year": 2024,
+        "rank": 13,
+        "net_worth_usd": 112
+      },
+      {
+        "year": 2025,
+        "rank": 12,
+        "net_worth_usd": 109
+      }
+    ],
+    "peak_rank": 6,
+    "peak_net_worth": 112,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "沃尔玛创始人Sam Walton之子，沃尔玛前董事长"
+  },
+  {
+    "name_en": "Michael Dell",
+    "name_cn": "迈克尔·戴尔",
+    "aliases": [
+      "Michael S. Dell"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Dell Technologies",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 9,
+        "net_worth_usd": 19.1
+      },
+      {
+        "year": 2001,
+        "rank": 27,
+        "net_worth_usd": 10.5
+      },
+      {
+        "year": 2002,
+        "rank": 18,
+        "net_worth_usd": 11.1
+      },
+      {
+        "year": 2003,
+        "rank": 24,
+        "net_worth_usd": 9.8
+      },
+      {
+        "year": 2004,
+        "rank": 18,
+        "net_worth_usd": 13
+      },
+      {
+        "year": 2005,
+        "rank": 18,
+        "net_worth_usd": 16
+      },
+      {
+        "year": 2006,
+        "rank": 12,
+        "net_worth_usd": 17.1
+      },
+      {
+        "year": 2007,
+        "rank": 30,
+        "net_worth_usd": 15.8
+      },
+      {
+        "year": 2008,
+        "rank": 40,
+        "net_worth_usd": 16.4
+      },
+      {
+        "year": 2009,
+        "rank": 25,
+        "net_worth_usd": 12.3
+      },
+      {
+        "year": 2010,
+        "rank": 37,
+        "net_worth_usd": 13.5
+      },
+      {
+        "year": 2011,
+        "rank": 44,
+        "net_worth_usd": 14.6
+      },
+      {
+        "year": 2012,
+        "rank": 41,
+        "net_worth_usd": 15.9
+      },
+      {
+        "year": 2013,
+        "rank": 49,
+        "net_worth_usd": 15.3
+      },
+      {
+        "year": 2014,
+        "rank": 48,
+        "net_worth_usd": 17.5
+      },
+      {
+        "year": 2015,
+        "rank": 47,
+        "net_worth_usd": 19.2
+      },
+      {
+        "year": 2016,
+        "rank": 35,
+        "net_worth_usd": 19.8
+      },
+      {
+        "year": 2017,
+        "rank": 38,
+        "net_worth_usd": 20.4
+      },
+      {
+        "year": 2018,
+        "rank": 39,
+        "net_worth_usd": 22.7
+      },
+      {
+        "year": 2019,
+        "rank": 28,
+        "net_worth_usd": 30.2
+      },
+      {
+        "year": 2021,
+        "rank": 25,
+        "net_worth_usd": 52.5
+      },
+      {
+        "year": 2022,
+        "rank": 22,
+        "net_worth_usd": 55.8
+      },
+      {
+        "year": 2023,
+        "rank": 26,
+        "net_worth_usd": 47.1
+      },
+      {
+        "year": 2024,
+        "rank": 14,
+        "net_worth_usd": 111
+      },
+      {
+        "year": 2025,
+        "rank": 14,
+        "net_worth_usd": 102
+      }
+    ],
+    "peak_rank": 9,
+    "peak_net_worth": 111,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "戴尔科技创始人兼CEO"
+  },
+  {
+    "name_en": "Carlos Slim Helu",
+    "name_cn": "卡洛斯·斯利姆",
+    "aliases": [
+      "Carlos Slim",
+      "Carlos Slim Helu & family"
+    ],
+    "country": "墨西哥",
+    "industry": "电信",
+    "main_company": "America Movil",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 33,
+        "net_worth_usd": 7.9
+      },
+      {
+        "year": 2001,
+        "rank": 25,
+        "net_worth_usd": 10.8
+      },
+      {
+        "year": 2002,
+        "rank": 17,
+        "net_worth_usd": 11.5
+      },
+      {
+        "year": 2003,
+        "rank": 35,
+        "net_worth_usd": 7.4
+      },
+      {
+        "year": 2004,
+        "rank": 17,
+        "net_worth_usd": 13.9
+      },
+      {
+        "year": 2005,
+        "rank": 4,
+        "net_worth_usd": 23.8
+      },
+      {
+        "year": 2006,
+        "rank": 3,
+        "net_worth_usd": 30
+      },
+      {
+        "year": 2007,
+        "rank": 3,
+        "net_worth_usd": 49
+      },
+      {
+        "year": 2008,
+        "rank": 2,
+        "net_worth_usd": 60
+      },
+      {
+        "year": 2009,
+        "rank": 3,
+        "net_worth_usd": 35
+      },
+      {
+        "year": 2010,
+        "rank": 1,
+        "net_worth_usd": 53.5
+      },
+      {
+        "year": 2011,
+        "rank": 1,
+        "net_worth_usd": 74
+      },
+      {
+        "year": 2012,
+        "rank": 1,
+        "net_worth_usd": 69
+      },
+      {
+        "year": 2013,
+        "rank": 1,
+        "net_worth_usd": 73
+      },
+      {
+        "year": 2014,
+        "rank": 2,
+        "net_worth_usd": 72
+      },
+      {
+        "year": 2015,
+        "rank": 2,
+        "net_worth_usd": 77.1
+      },
+      {
+        "year": 2016,
+        "rank": 4,
+        "net_worth_usd": 50
+      },
+      {
+        "year": 2017,
+        "rank": 6,
+        "net_worth_usd": 54.5
+      },
+      {
+        "year": 2018,
+        "rank": 7,
+        "net_worth_usd": 67.1
+      },
+      {
+        "year": 2019,
+        "rank": 9,
+        "net_worth_usd": 54.7
+      },
+      {
+        "year": 2021,
+        "rank": 22,
+        "net_worth_usd": 60.1
+      },
+      {
+        "year": 2023,
+        "rank": 9,
+        "net_worth_usd": 85.6
+      },
+      {
+        "year": 2024,
+        "rank": 18,
+        "net_worth_usd": 83.4
+      },
+      {
+        "year": 2025,
+        "rank": 18,
+        "net_worth_usd": 82.6
+      }
+    ],
+    "peak_rank": 1,
+    "peak_net_worth": 85.6,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "2010-2013连续四年全球首富，墨西哥电信大亨"
+  },
+  {
+    "name_en": "Steve Ballmer",
+    "name_cn": "史蒂夫·鲍尔默",
+    "aliases": [
+      "Steven Ballmer",
+      "Steven Anthony Ballmer"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Microsoft",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 12,
+        "net_worth_usd": 15.5
+      },
+      {
+        "year": 2001,
+        "rank": 13,
+        "net_worth_usd": 16.6
+      },
+      {
+        "year": 2002,
+        "rank": 15,
+        "net_worth_usd": 14.8
+      },
+      {
+        "year": 2003,
+        "rank": 16,
+        "net_worth_usd": 11.1
+      },
+      {
+        "year": 2004,
+        "rank": 19,
+        "net_worth_usd": 12.4
+      },
+      {
+        "year": 2005,
+        "rank": 24,
+        "net_worth_usd": 12.1
+      },
+      {
+        "year": 2006,
+        "rank": 24,
+        "net_worth_usd": 13.6
+      },
+      {
+        "year": 2007,
+        "rank": 31,
+        "net_worth_usd": 15
+      },
+      {
+        "year": 2008,
+        "rank": 43,
+        "net_worth_usd": 15
+      },
+      {
+        "year": 2009,
+        "rank": 29,
+        "net_worth_usd": 11
+      },
+      {
+        "year": 2010,
+        "rank": 33,
+        "net_worth_usd": 14.5
+      },
+      {
+        "year": 2011,
+        "rank": 46,
+        "net_worth_usd": 14.5
+      },
+      {
+        "year": 2012,
+        "rank": 44,
+        "net_worth_usd": 15.7
+      },
+      {
+        "year": 2014,
+        "rank": 36,
+        "net_worth_usd": 19.3
+      },
+      {
+        "year": 2015,
+        "rank": 35,
+        "net_worth_usd": 21.5
+      },
+      {
+        "year": 2016,
+        "rank": 26,
+        "net_worth_usd": 23.5
+      },
+      {
+        "year": 2017,
+        "rank": 21,
+        "net_worth_usd": 30
+      },
+      {
+        "year": 2018,
+        "rank": 22,
+        "net_worth_usd": 38.4
+      },
+      {
+        "year": 2019,
+        "rank": 19,
+        "net_worth_usd": 41.7
+      },
+      {
+        "year": 2021,
+        "rank": 10,
+        "net_worth_usd": 91.7
+      },
+      {
+        "year": 2022,
+        "rank": 9,
+        "net_worth_usd": 98.1
+      },
+      {
+        "year": 2023,
+        "rank": 7,
+        "net_worth_usd": 89.7
+      },
+      {
+        "year": 2024,
+        "rank": 9,
+        "net_worth_usd": 147
+      },
+      {
+        "year": 2025,
+        "rank": 10,
+        "net_worth_usd": 134
+      }
+    ],
+    "peak_rank": 7,
+    "peak_net_worth": 147,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "微软前CEO，洛杉矶快船队老板"
+  },
+  {
+    "name_en": "Jim Walton",
+    "name_cn": "吉姆·沃尔顿",
+    "aliases": [
+      "Jim C. Walton"
+    ],
+    "country": "美国",
+    "industry": "零售",
+    "main_company": "Walmart",
+    "appearances": [
+      {
+        "year": 2001,
+        "rank": 7,
+        "net_worth_usd": 18.8
+      },
+      {
+        "year": 2002,
+        "rank": 6,
+        "net_worth_usd": 20.8
+      },
+      {
+        "year": 2003,
+        "rank": 7,
+        "net_worth_usd": 16.5
+      },
+      {
+        "year": 2004,
+        "rank": 6,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2005,
+        "rank": 11,
+        "net_worth_usd": 18.2
+      },
+      {
+        "year": 2006,
+        "rank": 17,
+        "net_worth_usd": 15.9
+      },
+      {
+        "year": 2007,
+        "rank": 23,
+        "net_worth_usd": 16.8
+      },
+      {
+        "year": 2008,
+        "rank": 26,
+        "net_worth_usd": 19.2
+      },
+      {
+        "year": 2009,
+        "rank": 11,
+        "net_worth_usd": 17.8
+      },
+      {
+        "year": 2010,
+        "rank": 15,
+        "net_worth_usd": 20.7
+      },
+      {
+        "year": 2011,
+        "rank": 20,
+        "net_worth_usd": 21.3
+      },
+      {
+        "year": 2012,
+        "rank": 16,
+        "net_worth_usd": 23.7
+      },
+      {
+        "year": 2013,
+        "rank": 14,
+        "net_worth_usd": 26.7
+      },
+      {
+        "year": 2014,
+        "rank": 10,
+        "net_worth_usd": 34.7
+      },
+      {
+        "year": 2015,
+        "rank": 9,
+        "net_worth_usd": 40.6
+      },
+      {
+        "year": 2016,
+        "rank": 15,
+        "net_worth_usd": 33.6
+      },
+      {
+        "year": 2017,
+        "rank": 16,
+        "net_worth_usd": 34
+      },
+      {
+        "year": 2018,
+        "rank": 14,
+        "net_worth_usd": 46.4
+      },
+      {
+        "year": 2019,
+        "rank": 13,
+        "net_worth_usd": 46.4
+      },
+      {
+        "year": 2021,
+        "rank": 18,
+        "net_worth_usd": 62.8
+      },
+      {
+        "year": 2022,
+        "rank": 13,
+        "net_worth_usd": 68.8
+      },
+      {
+        "year": 2023,
+        "rank": 17,
+        "net_worth_usd": 64.4
+      },
+      {
+        "year": 2024,
+        "rank": 12,
+        "net_worth_usd": 114
+      },
+      {
+        "year": 2025,
+        "rank": 11,
+        "net_worth_usd": 111
+      }
+    ],
+    "peak_rank": 6,
+    "peak_net_worth": 114,
+    "first_appeared": 2001,
+    "status": "在世",
+    "notes": "沃尔玛创始人Sam Walton之子"
+  },
+  {
+    "name_en": "Alice Walton",
+    "name_cn": "爱丽丝·沃尔顿",
+    "aliases": [
+      "Alice L. Walton"
+    ],
+    "country": "美国",
+    "industry": "零售",
+    "main_company": "Walmart",
+    "appearances": [
+      {
+        "year": 2001,
+        "rank": 10,
+        "net_worth_usd": 18.5
+      },
+      {
+        "year": 2002,
+        "rank": 8,
+        "net_worth_usd": 20.5
+      },
+      {
+        "year": 2003,
+        "rank": 7,
+        "net_worth_usd": 16.5
+      },
+      {
+        "year": 2004,
+        "rank": 6,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2005,
+        "rank": 13,
+        "net_worth_usd": 18
+      },
+      {
+        "year": 2006,
+        "rank": 20,
+        "net_worth_usd": 15.7
+      },
+      {
+        "year": 2007,
+        "rank": 26,
+        "net_worth_usd": 16.6
+      },
+      {
+        "year": 2008,
+        "rank": 29,
+        "net_worth_usd": 19
+      },
+      {
+        "year": 2009,
+        "rank": 12,
+        "net_worth_usd": 17.6
+      },
+      {
+        "year": 2010,
+        "rank": 16,
+        "net_worth_usd": 20.6
+      },
+      {
+        "year": 2011,
+        "rank": 21,
+        "net_worth_usd": 21.2
+      },
+      {
+        "year": 2012,
+        "rank": 17,
+        "net_worth_usd": 23.3
+      },
+      {
+        "year": 2013,
+        "rank": 16,
+        "net_worth_usd": 26.3
+      },
+      {
+        "year": 2014,
+        "rank": 13,
+        "net_worth_usd": 34.3
+      },
+      {
+        "year": 2015,
+        "rank": 11,
+        "net_worth_usd": 39.4
+      },
+      {
+        "year": 2016,
+        "rank": 16,
+        "net_worth_usd": 32.3
+      },
+      {
+        "year": 2017,
+        "rank": 17,
+        "net_worth_usd": 33.8
+      },
+      {
+        "year": 2018,
+        "rank": 16,
+        "net_worth_usd": 46
+      },
+      {
+        "year": 2019,
+        "rank": 15,
+        "net_worth_usd": 44.6
+      },
+      {
+        "year": 2021,
+        "rank": 20,
+        "net_worth_usd": 60.9
+      },
+      {
+        "year": 2022,
+        "rank": 17,
+        "net_worth_usd": 65.3
+      },
+      {
+        "year": 2023,
+        "rank": 20,
+        "net_worth_usd": 62.1
+      },
+      {
+        "year": 2024,
+        "rank": 15,
+        "net_worth_usd": 111
+      },
+      {
+        "year": 2025,
+        "rank": 13,
+        "net_worth_usd": 108
+      }
+    ],
+    "peak_rank": 6,
+    "peak_net_worth": 111,
+    "first_appeared": 2001,
+    "status": "在世",
+    "notes": "沃尔玛创始人Sam Walton之女，水晶桥美国艺术博物馆创办人"
+  },
+  {
+    "name_en": "Amancio Ortega",
+    "name_cn": "阿曼西奥·奥特加",
+    "aliases": [
+      "Amancio Ortega Gaona"
+    ],
+    "country": "西班牙",
+    "industry": "零售",
+    "main_company": "Inditex (Zara)",
+    "appearances": [
+      {
+        "year": 2001,
+        "rank": 43,
+        "net_worth_usd": 6.6
+      },
+      {
+        "year": 2002,
+        "rank": 25,
+        "net_worth_usd": 9.1
+      },
+      {
+        "year": 2003,
+        "rank": 20,
+        "net_worth_usd": 10.3
+      },
+      {
+        "year": 2004,
+        "rank": 33,
+        "net_worth_usd": 9.2
+      },
+      {
+        "year": 2005,
+        "rank": 23,
+        "net_worth_usd": 12.6
+      },
+      {
+        "year": 2006,
+        "rank": 23,
+        "net_worth_usd": 14.8
+      },
+      {
+        "year": 2007,
+        "rank": 8,
+        "net_worth_usd": 24
+      },
+      {
+        "year": 2008,
+        "rank": 22,
+        "net_worth_usd": 20.2
+      },
+      {
+        "year": 2009,
+        "rank": 10,
+        "net_worth_usd": 18.3
+      },
+      {
+        "year": 2010,
+        "rank": 9,
+        "net_worth_usd": 25
+      },
+      {
+        "year": 2011,
+        "rank": 7,
+        "net_worth_usd": 31
+      },
+      {
+        "year": 2012,
+        "rank": 5,
+        "net_worth_usd": 37.5
+      },
+      {
+        "year": 2013,
+        "rank": 3,
+        "net_worth_usd": 57
+      },
+      {
+        "year": 2014,
+        "rank": 3,
+        "net_worth_usd": 64
+      },
+      {
+        "year": 2015,
+        "rank": 4,
+        "net_worth_usd": 64.5
+      },
+      {
+        "year": 2016,
+        "rank": 2,
+        "net_worth_usd": 67
+      },
+      {
+        "year": 2017,
+        "rank": 4,
+        "net_worth_usd": 71.3
+      },
+      {
+        "year": 2018,
+        "rank": 6,
+        "net_worth_usd": 70
+      },
+      {
+        "year": 2019,
+        "rank": 5,
+        "net_worth_usd": 67.2
+      },
+      {
+        "year": 2021,
+        "rank": 13,
+        "net_worth_usd": 84.5
+      },
+      {
+        "year": 2022,
+        "rank": 19,
+        "net_worth_usd": 63.3
+      },
+      {
+        "year": 2024,
+        "rank": 16,
+        "net_worth_usd": 108
+      },
+      {
+        "year": 2025,
+        "rank": 15,
+        "net_worth_usd": 101
+      }
+    ],
+    "peak_rank": 2,
+    "peak_net_worth": 108,
+    "first_appeared": 2001,
+    "status": "在世",
+    "notes": "Zara母公司Inditex创始人，西班牙首富"
+  },
+  {
+    "name_en": "Li Ka-shing",
+    "name_cn": "李嘉诚",
+    "aliases": [
+      "Li Ka Shing",
+      "Sir Ka-shing Li"
+    ],
+    "country": "中国香港",
+    "industry": "综合",
+    "main_company": "CK Hutchison",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 20,
+        "net_worth_usd": 11.3
+      },
+      {
+        "year": 2001,
+        "rank": 18,
+        "net_worth_usd": 12.6
+      },
+      {
+        "year": 2002,
+        "rank": 23,
+        "net_worth_usd": 10
+      },
+      {
+        "year": 2003,
+        "rank": 28,
+        "net_worth_usd": 7.8
+      },
+      {
+        "year": 2004,
+        "rank": 19,
+        "net_worth_usd": 12.4
+      },
+      {
+        "year": 2005,
+        "rank": 22,
+        "net_worth_usd": 13
+      },
+      {
+        "year": 2006,
+        "rank": 10,
+        "net_worth_usd": 18.8
+      },
+      {
+        "year": 2007,
+        "rank": 9,
+        "net_worth_usd": 23
+      },
+      {
+        "year": 2008,
+        "rank": 11,
+        "net_worth_usd": 26.5
+      },
+      {
+        "year": 2009,
+        "rank": 16,
+        "net_worth_usd": 16.2
+      },
+      {
+        "year": 2010,
+        "rank": 14,
+        "net_worth_usd": 21
+      },
+      {
+        "year": 2011,
+        "rank": 11,
+        "net_worth_usd": 26
+      },
+      {
+        "year": 2012,
+        "rank": 9,
+        "net_worth_usd": 25.5
+      },
+      {
+        "year": 2013,
+        "rank": 8,
+        "net_worth_usd": 31
+      },
+      {
+        "year": 2014,
+        "rank": 20,
+        "net_worth_usd": 31
+      },
+      {
+        "year": 2015,
+        "rank": 17,
+        "net_worth_usd": 33.3
+      },
+      {
+        "year": 2016,
+        "rank": 20,
+        "net_worth_usd": 27.1
+      },
+      {
+        "year": 2017,
+        "rank": 19,
+        "net_worth_usd": 31.2
+      },
+      {
+        "year": 2018,
+        "rank": 23,
+        "net_worth_usd": 34.9
+      },
+      {
+        "year": 2019,
+        "rank": 27,
+        "net_worth_usd": 30.6
+      },
+      {
+        "year": 2021,
+        "rank": 41,
+        "net_worth_usd": 34.4
+      },
+      {
+        "year": 2023,
+        "rank": 44,
+        "net_worth_usd": 29
+      }
+    ],
+    "peak_rank": 8,
+    "peak_net_worth": 34.9,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "亚洲商界传奇，长江集团创始人"
+  },
+  {
+    "name_en": "Jacqueline Mars",
+    "name_cn": "杰奎琳·马尔斯",
+    "aliases": [
+      "Jacqueline Badger Mars"
+    ],
+    "country": "美国",
+    "industry": "消费品",
+    "main_company": "Mars Inc.",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 41,
+        "net_worth_usd": 7
+      },
+      {
+        "year": 2001,
+        "rank": 31,
+        "net_worth_usd": 9
+      },
+      {
+        "year": 2002,
+        "rank": 26,
+        "net_worth_usd": 9
+      },
+      {
+        "year": 2003,
+        "rank": 21,
+        "net_worth_usd": 10
+      },
+      {
+        "year": 2004,
+        "rank": 27,
+        "net_worth_usd": 10.4
+      },
+      {
+        "year": 2005,
+        "rank": 32,
+        "net_worth_usd": 10.4
+      },
+      {
+        "year": 2006,
+        "rank": 44,
+        "net_worth_usd": 10
+      },
+      {
+        "year": 2008,
+        "rank": 46,
+        "net_worth_usd": 14
+      },
+      {
+        "year": 2009,
+        "rank": 43,
+        "net_worth_usd": 9
+      },
+      {
+        "year": 2013,
+        "rank": 36,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2014,
+        "rank": 31,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2015,
+        "rank": 22,
+        "net_worth_usd": 26.6
+      },
+      {
+        "year": 2016,
+        "rank": 27,
+        "net_worth_usd": 23.4
+      },
+      {
+        "year": 2017,
+        "rank": 26,
+        "net_worth_usd": 27
+      },
+      {
+        "year": 2018,
+        "rank": 34,
+        "net_worth_usd": 23.6
+      },
+      {
+        "year": 2019,
+        "rank": 21,
+        "net_worth_usd": 35.9
+      },
+      {
+        "year": 2021,
+        "rank": 28,
+        "net_worth_usd": 46.2
+      },
+      {
+        "year": 2022,
+        "rank": 22,
+        "net_worth_usd": 60.5
+      },
+      {
+        "year": 2023,
+        "rank": 22,
+        "net_worth_usd": 52.7
+      },
+      {
+        "year": 2024,
+        "rank": 29,
+        "net_worth_usd": 45
+      },
+      {
+        "year": 2025,
+        "rank": 31,
+        "net_worth_usd": 44.5
+      }
+    ],
+    "peak_rank": 21,
+    "peak_net_worth": 60.5,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "玛氏公司继承人"
+  },
+  {
+    "name_en": "John Mars",
+    "name_cn": "约翰·马尔斯",
+    "aliases": [
+      "John Franklyn Mars"
+    ],
+    "country": "美国",
+    "industry": "消费品",
+    "main_company": "Mars Inc.",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 42,
+        "net_worth_usd": 7
+      },
+      {
+        "year": 2001,
+        "rank": 31,
+        "net_worth_usd": 9
+      },
+      {
+        "year": 2002,
+        "rank": 26,
+        "net_worth_usd": 9
+      },
+      {
+        "year": 2003,
+        "rank": 21,
+        "net_worth_usd": 10
+      },
+      {
+        "year": 2004,
+        "rank": 27,
+        "net_worth_usd": 10.4
+      },
+      {
+        "year": 2005,
+        "rank": 32,
+        "net_worth_usd": 10.4
+      },
+      {
+        "year": 2006,
+        "rank": 44,
+        "net_worth_usd": 10
+      },
+      {
+        "year": 2008,
+        "rank": 46,
+        "net_worth_usd": 14
+      },
+      {
+        "year": 2009,
+        "rank": 43,
+        "net_worth_usd": 9
+      },
+      {
+        "year": 2013,
+        "rank": 36,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2014,
+        "rank": 31,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2015,
+        "rank": 22,
+        "net_worth_usd": 26.6
+      },
+      {
+        "year": 2016,
+        "rank": 27,
+        "net_worth_usd": 23.4
+      },
+      {
+        "year": 2017,
+        "rank": 26,
+        "net_worth_usd": 27
+      },
+      {
+        "year": 2018,
+        "rank": 34,
+        "net_worth_usd": 23.6
+      },
+      {
+        "year": 2019,
+        "rank": 22,
+        "net_worth_usd": 35.9
+      },
+      {
+        "year": 2021,
+        "rank": 29,
+        "net_worth_usd": 46.2
+      },
+      {
+        "year": 2022,
+        "rank": 23,
+        "net_worth_usd": 60.5
+      },
+      {
+        "year": 2023,
+        "rank": 23,
+        "net_worth_usd": 52.7
+      },
+      {
+        "year": 2024,
+        "rank": 30,
+        "net_worth_usd": 45
+      },
+      {
+        "year": 2025,
+        "rank": 30,
+        "net_worth_usd": 44.6
+      }
+    ],
+    "peak_rank": 21,
+    "peak_net_worth": 60.5,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "玛氏公司继承人"
+  },
+  {
+    "name_en": "Larry Page",
+    "name_cn": "拉里·佩奇",
+    "aliases": [
+      "Lawrence Page"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Alphabet (Google)",
+    "appearances": [
+      {
+        "year": 2006,
+        "rank": 27,
+        "net_worth_usd": 12.8
+      },
+      {
+        "year": 2007,
+        "rank": 26,
+        "net_worth_usd": 16.6
+      },
+      {
+        "year": 2008,
+        "rank": 33,
+        "net_worth_usd": 18.6
+      },
+      {
+        "year": 2009,
+        "rank": 26,
+        "net_worth_usd": 12
+      },
+      {
+        "year": 2010,
+        "rank": 24,
+        "net_worth_usd": 17.5
+      },
+      {
+        "year": 2011,
+        "rank": 24,
+        "net_worth_usd": 19.8
+      },
+      {
+        "year": 2012,
+        "rank": 24,
+        "net_worth_usd": 18.7
+      },
+      {
+        "year": 2013,
+        "rank": 20,
+        "net_worth_usd": 23
+      },
+      {
+        "year": 2014,
+        "rank": 17,
+        "net_worth_usd": 32.3
+      },
+      {
+        "year": 2015,
+        "rank": 19,
+        "net_worth_usd": 29.7
+      },
+      {
+        "year": 2016,
+        "rank": 12,
+        "net_worth_usd": 35.2
+      },
+      {
+        "year": 2017,
+        "rank": 12,
+        "net_worth_usd": 40.7
+      },
+      {
+        "year": 2018,
+        "rank": 12,
+        "net_worth_usd": 48.8
+      },
+      {
+        "year": 2019,
+        "rank": 8,
+        "net_worth_usd": 56
+      },
+      {
+        "year": 2021,
+        "rank": 6,
+        "net_worth_usd": 110
+      },
+      {
+        "year": 2022,
+        "rank": 7,
+        "net_worth_usd": 100
+      },
+      {
+        "year": 2023,
+        "rank": 8,
+        "net_worth_usd": 86.4
+      },
+      {
+        "year": 2024,
+        "rank": 7,
+        "net_worth_usd": 153
+      },
+      {
+        "year": 2025,
+        "rank": 8,
+        "net_worth_usd": 143
+      }
+    ],
+    "peak_rank": 6,
+    "peak_net_worth": 153,
+    "first_appeared": 2006,
+    "status": "在世",
+    "notes": "Google联合创始人，Alphabet联合创始人"
+  },
+  {
+    "name_en": "Sergey Brin",
+    "name_cn": "谢尔盖·布林",
+    "aliases": [
+      "Sergey M. Brin"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Alphabet (Google)",
+    "appearances": [
+      {
+        "year": 2006,
+        "rank": 26,
+        "net_worth_usd": 12.9
+      },
+      {
+        "year": 2007,
+        "rank": 26,
+        "net_worth_usd": 16.6
+      },
+      {
+        "year": 2008,
+        "rank": 32,
+        "net_worth_usd": 18.7
+      },
+      {
+        "year": 2009,
+        "rank": 26,
+        "net_worth_usd": 12
+      },
+      {
+        "year": 2010,
+        "rank": 24,
+        "net_worth_usd": 17.5
+      },
+      {
+        "year": 2011,
+        "rank": 24,
+        "net_worth_usd": 19.8
+      },
+      {
+        "year": 2012,
+        "rank": 24,
+        "net_worth_usd": 18.7
+      },
+      {
+        "year": 2013,
+        "rank": 21,
+        "net_worth_usd": 22.8
+      },
+      {
+        "year": 2014,
+        "rank": 19,
+        "net_worth_usd": 31.8
+      },
+      {
+        "year": 2015,
+        "rank": 20,
+        "net_worth_usd": 29.2
+      },
+      {
+        "year": 2016,
+        "rank": 13,
+        "net_worth_usd": 34.4
+      },
+      {
+        "year": 2017,
+        "rank": 13,
+        "net_worth_usd": 39.8
+      },
+      {
+        "year": 2018,
+        "rank": 13,
+        "net_worth_usd": 47.5
+      },
+      {
+        "year": 2019,
+        "rank": 10,
+        "net_worth_usd": 54.4
+      },
+      {
+        "year": 2021,
+        "rank": 8,
+        "net_worth_usd": 106
+      },
+      {
+        "year": 2022,
+        "rank": 10,
+        "net_worth_usd": 95.2
+      },
+      {
+        "year": 2023,
+        "rank": 10,
+        "net_worth_usd": 82.7
+      },
+      {
+        "year": 2024,
+        "rank": 10,
+        "net_worth_usd": 144
+      },
+      {
+        "year": 2025,
+        "rank": 9,
+        "net_worth_usd": 135
+      }
+    ],
+    "peak_rank": 8,
+    "peak_net_worth": 144,
+    "first_appeared": 2006,
+    "status": "在世",
+    "notes": "Google联合创始人，Alphabet联合创始人"
+  },
+  {
+    "name_en": "Charles Koch",
+    "name_cn": "查尔斯·科赫",
+    "aliases": [
+      "Charles G. Koch"
+    ],
+    "country": "美国",
+    "industry": "综合",
+    "main_company": "Koch Industries",
+    "appearances": [
+      {
+        "year": 2006,
+        "rank": 33,
+        "net_worth_usd": 12
+      },
+      {
+        "year": 2007,
+        "rank": 37,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2008,
+        "rank": 37,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2009,
+        "rank": 19,
+        "net_worth_usd": 14
+      },
+      {
+        "year": 2010,
+        "rank": 24,
+        "net_worth_usd": 17.5
+      },
+      {
+        "year": 2011,
+        "rank": 18,
+        "net_worth_usd": 22
+      },
+      {
+        "year": 2012,
+        "rank": 12,
+        "net_worth_usd": 25
+      },
+      {
+        "year": 2013,
+        "rank": 6,
+        "net_worth_usd": 34
+      },
+      {
+        "year": 2014,
+        "rank": 6,
+        "net_worth_usd": 40
+      },
+      {
+        "year": 2015,
+        "rank": 6,
+        "net_worth_usd": 42.9
+      },
+      {
+        "year": 2016,
+        "rank": 9,
+        "net_worth_usd": 39.6
+      },
+      {
+        "year": 2017,
+        "rank": 8,
+        "net_worth_usd": 48.3
+      },
+      {
+        "year": 2018,
+        "rank": 8,
+        "net_worth_usd": 60
+      },
+      {
+        "year": 2019,
+        "rank": 16,
+        "net_worth_usd": 43.5
+      },
+      {
+        "year": 2021,
+        "rank": 16,
+        "net_worth_usd": 65
+      },
+      {
+        "year": 2022,
+        "rank": 12,
+        "net_worth_usd": 74
+      },
+      {
+        "year": 2023,
+        "rank": 14,
+        "net_worth_usd": 67.2
+      },
+      {
+        "year": 2024,
+        "rank": 22,
+        "net_worth_usd": 68.9
+      },
+      {
+        "year": 2025,
+        "rank": 22,
+        "net_worth_usd": 69
+      }
+    ],
+    "peak_rank": 6,
+    "peak_net_worth": 74,
+    "first_appeared": 2006,
+    "status": "在世",
+    "notes": "科氏工业集团董事长兼CEO"
+  },
+  {
+    "name_en": "Mukesh Ambani",
+    "name_cn": "穆克什·安巴尼",
+    "aliases": [
+      "Mukesh D. Ambani"
+    ],
+    "country": "印度",
+    "industry": "综合",
+    "main_company": "Reliance Industries",
+    "appearances": [
+      {
+        "year": 2007,
+        "rank": 14,
+        "net_worth_usd": 20.1
+      },
+      {
+        "year": 2008,
+        "rank": 5,
+        "net_worth_usd": 43
+      },
+      {
+        "year": 2009,
+        "rank": 7,
+        "net_worth_usd": 19.5
+      },
+      {
+        "year": 2010,
+        "rank": 4,
+        "net_worth_usd": 29
+      },
+      {
+        "year": 2011,
+        "rank": 9,
+        "net_worth_usd": 27
+      },
+      {
+        "year": 2012,
+        "rank": 19,
+        "net_worth_usd": 22.3
+      },
+      {
+        "year": 2013,
+        "rank": 22,
+        "net_worth_usd": 21.5
+      },
+      {
+        "year": 2014,
+        "rank": 40,
+        "net_worth_usd": 18.6
+      },
+      {
+        "year": 2016,
+        "rank": 36,
+        "net_worth_usd": 19.3
+      },
+      {
+        "year": 2017,
+        "rank": 33,
+        "net_worth_usd": 23.2
+      },
+      {
+        "year": 2018,
+        "rank": 19,
+        "net_worth_usd": 40.1
+      },
+      {
+        "year": 2019,
+        "rank": 12,
+        "net_worth_usd": 50
+      },
+      {
+        "year": 2020,
+        "rank": 9,
+        "net_worth_usd": 45
+      },
+      {
+        "year": 2021,
+        "rank": 12,
+        "net_worth_usd": 85.4
+      },
+      {
+        "year": 2022,
+        "rank": 8,
+        "net_worth_usd": 90.7
+      },
+      {
+        "year": 2023,
+        "rank": 11,
+        "net_worth_usd": 79.9
+      },
+      {
+        "year": 2024,
+        "rank": 17,
+        "net_worth_usd": 98.1
+      },
+      {
+        "year": 2025,
+        "rank": 17,
+        "net_worth_usd": 89.9
+      }
+    ],
+    "peak_rank": 4,
+    "peak_net_worth": 98.1,
+    "first_appeared": 2007,
+    "status": "在世",
+    "notes": "印度首富，信实工业董事长"
+  },
+  {
+    "name_en": "Liliane Bettencourt",
+    "name_cn": "利莉亚娜·贝当古",
+    "aliases": [
+      "Liliane Bettencourt & family"
+    ],
+    "country": "法国",
+    "industry": "消费品",
+    "main_company": "L'Oréal",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 13,
+        "net_worth_usd": 15.2
+      },
+      {
+        "year": 2001,
+        "rank": 15,
+        "net_worth_usd": 15.6
+      },
+      {
+        "year": 2002,
+        "rank": 13,
+        "net_worth_usd": 14.9
+      },
+      {
+        "year": 2003,
+        "rank": 12,
+        "net_worth_usd": 14.5
+      },
+      {
+        "year": 2004,
+        "rank": 11,
+        "net_worth_usd": 18.8
+      },
+      {
+        "year": 2005,
+        "rank": 16,
+        "net_worth_usd": 17.2
+      },
+      {
+        "year": 2006,
+        "rank": 15,
+        "net_worth_usd": 16
+      },
+      {
+        "year": 2007,
+        "rank": 12,
+        "net_worth_usd": 20.7
+      },
+      {
+        "year": 2008,
+        "rank": 17,
+        "net_worth_usd": 22.9
+      },
+      {
+        "year": 2009,
+        "rank": 21,
+        "net_worth_usd": 13.4
+      },
+      {
+        "year": 2010,
+        "rank": 17,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2011,
+        "rank": 15,
+        "net_worth_usd": 23.5
+      },
+      {
+        "year": 2012,
+        "rank": 15,
+        "net_worth_usd": 24
+      },
+      {
+        "year": 2013,
+        "rank": 9,
+        "net_worth_usd": 30
+      },
+      {
+        "year": 2014,
+        "rank": 11,
+        "net_worth_usd": 34.5
+      },
+      {
+        "year": 2015,
+        "rank": 10,
+        "net_worth_usd": 40.1
+      },
+      {
+        "year": 2016,
+        "rank": 11,
+        "net_worth_usd": 36.1
+      },
+      {
+        "year": 2017,
+        "rank": 14,
+        "net_worth_usd": 39.5
+      }
+    ],
+    "peak_rank": 9,
+    "peak_net_worth": 40.1,
+    "first_appeared": 2000,
+    "status": "去世",
+    "notes": "欧莱雅集团继承人，2017年9月去世"
+  },
+  {
+    "name_en": "Prince Alwaleed Bin Talal",
+    "name_cn": "阿尔瓦利德王子",
+    "aliases": [
+      "Alwaleed Bin Talal Alsaud",
+      "Prince Alwaleed"
+    ],
+    "country": "沙特阿拉伯",
+    "industry": "金融",
+    "main_company": "Kingdom Holding Company",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 6,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2001,
+        "rank": 6,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2002,
+        "rank": 11,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2003,
+        "rank": 5,
+        "net_worth_usd": 17.7
+      },
+      {
+        "year": 2004,
+        "rank": 4,
+        "net_worth_usd": 21.5
+      },
+      {
+        "year": 2005,
+        "rank": 5,
+        "net_worth_usd": 23.7
+      },
+      {
+        "year": 2006,
+        "rank": 8,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2007,
+        "rank": 13,
+        "net_worth_usd": 20.3
+      },
+      {
+        "year": 2008,
+        "rank": 19,
+        "net_worth_usd": 21
+      },
+      {
+        "year": 2009,
+        "rank": 22,
+        "net_worth_usd": 13.3
+      },
+      {
+        "year": 2010,
+        "rank": 19,
+        "net_worth_usd": 19.4
+      },
+      {
+        "year": 2011,
+        "rank": 26,
+        "net_worth_usd": 19.6
+      },
+      {
+        "year": 2012,
+        "rank": 29,
+        "net_worth_usd": 18
+      },
+      {
+        "year": 2013,
+        "rank": 26,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2014,
+        "rank": 30,
+        "net_worth_usd": 20.4
+      },
+      {
+        "year": 2015,
+        "rank": 34,
+        "net_worth_usd": 22.6
+      },
+      {
+        "year": 2016,
+        "rank": 41,
+        "net_worth_usd": 17.3
+      },
+      {
+        "year": 2017,
+        "rank": 45,
+        "net_worth_usd": 18.7
+      }
+    ],
+    "peak_rank": 4,
+    "peak_net_worth": 23.7,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "沙特王国控股公司董事长，阿拉伯的巴菲特"
+  },
+  {
+    "name_en": "Stefan Persson",
+    "name_cn": "斯特凡·佩尔松",
+    "aliases": [
+      "Stefan Persson"
+    ],
+    "country": "瑞典",
+    "industry": "零售",
+    "main_company": "H&M",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 35,
+        "net_worth_usd": 7.7
+      },
+      {
+        "year": 2002,
+        "rank": 48,
+        "net_worth_usd": 5.6
+      },
+      {
+        "year": 2003,
+        "rank": 40,
+        "net_worth_usd": 6.7
+      },
+      {
+        "year": 2004,
+        "rank": 37,
+        "net_worth_usd": 8.6
+      },
+      {
+        "year": 2005,
+        "rank": 29,
+        "net_worth_usd": 11.2
+      },
+      {
+        "year": 2006,
+        "rank": 32,
+        "net_worth_usd": 12.3
+      },
+      {
+        "year": 2007,
+        "rank": 17,
+        "net_worth_usd": 18.4
+      },
+      {
+        "year": 2008,
+        "rank": 35,
+        "net_worth_usd": 17.7
+      },
+      {
+        "year": 2009,
+        "rank": 18,
+        "net_worth_usd": 14.5
+      },
+      {
+        "year": 2010,
+        "rank": 13,
+        "net_worth_usd": 22.4
+      },
+      {
+        "year": 2011,
+        "rank": 13,
+        "net_worth_usd": 24.5
+      },
+      {
+        "year": 2012,
+        "rank": 8,
+        "net_worth_usd": 26
+      },
+      {
+        "year": 2013,
+        "rank": 12,
+        "net_worth_usd": 28
+      },
+      {
+        "year": 2014,
+        "rank": 12,
+        "net_worth_usd": 34.4
+      },
+      {
+        "year": 2015,
+        "rank": 28,
+        "net_worth_usd": 24.5
+      },
+      {
+        "year": 2016,
+        "rank": 32,
+        "net_worth_usd": 20.8
+      },
+      {
+        "year": 2017,
+        "rank": 43,
+        "net_worth_usd": 19.6
+      }
+    ],
+    "peak_rank": 8,
+    "peak_net_worth": 34.4,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "H&M集团最大股东及前CEO"
+  },
+  {
+    "name_en": "Jeff Bezos",
+    "name_cn": "杰夫·贝索斯",
+    "aliases": [
+      "Jeffrey Bezos",
+      "Jeffrey P. Bezos"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Amazon",
+    "appearances": [
+      {
+        "year": 2010,
+        "rank": 43,
+        "net_worth_usd": 12.3
+      },
+      {
+        "year": 2011,
+        "rank": 30,
+        "net_worth_usd": 18.1
+      },
+      {
+        "year": 2012,
+        "rank": 26,
+        "net_worth_usd": 18.4
+      },
+      {
+        "year": 2013,
+        "rank": 19,
+        "net_worth_usd": 25.2
+      },
+      {
+        "year": 2014,
+        "rank": 18,
+        "net_worth_usd": 32
+      },
+      {
+        "year": 2015,
+        "rank": 15,
+        "net_worth_usd": 34.8
+      },
+      {
+        "year": 2016,
+        "rank": 5,
+        "net_worth_usd": 45.2
+      },
+      {
+        "year": 2017,
+        "rank": 3,
+        "net_worth_usd": 72.8
+      },
+      {
+        "year": 2018,
+        "rank": 1,
+        "net_worth_usd": 112
+      },
+      {
+        "year": 2019,
+        "rank": 1,
+        "net_worth_usd": 135
+      },
+      {
+        "year": 2020,
+        "rank": 1,
+        "net_worth_usd": 113
+      },
+      {
+        "year": 2021,
+        "rank": 1,
+        "net_worth_usd": 186
+      },
+      {
+        "year": 2022,
+        "rank": 2,
+        "net_worth_usd": 171
+      },
+      {
+        "year": 2023,
+        "rank": 3,
+        "net_worth_usd": 116
+      },
+      {
+        "year": 2024,
+        "rank": 2,
+        "net_worth_usd": 227
+      },
+      {
+        "year": 2025,
+        "rank": 2,
+        "net_worth_usd": 217
+      }
+    ],
+    "peak_rank": 1,
+    "peak_net_worth": 227,
+    "first_appeared": 2010,
+    "status": "在世",
+    "notes": "2018-2021连续四年全球首富，亚马逊创始人"
+  },
+  {
+    "name_en": "Paul Allen",
+    "name_cn": "保罗·艾伦",
+    "aliases": [
+      "Paul Gardner Allen"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Microsoft (co-founder)",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 3,
+        "net_worth_usd": 28
+      },
+      {
+        "year": 2001,
+        "rank": 3,
+        "net_worth_usd": 30.4
+      },
+      {
+        "year": 2002,
+        "rank": 4,
+        "net_worth_usd": 25.2
+      },
+      {
+        "year": 2003,
+        "rank": 5,
+        "net_worth_usd": 21
+      },
+      {
+        "year": 2004,
+        "rank": 5,
+        "net_worth_usd": 21
+      },
+      {
+        "year": 2005,
+        "rank": 7,
+        "net_worth_usd": 21
+      },
+      {
+        "year": 2006,
+        "rank": 6,
+        "net_worth_usd": 22
+      },
+      {
+        "year": 2007,
+        "rank": 19,
+        "net_worth_usd": 18
+      },
+      {
+        "year": 2008,
+        "rank": 41,
+        "net_worth_usd": 16
+      },
+      {
+        "year": 2009,
+        "rank": 32,
+        "net_worth_usd": 10.5
+      },
+      {
+        "year": 2010,
+        "rank": 37,
+        "net_worth_usd": 13.5
+      },
+      {
+        "year": 2012,
+        "rank": 48,
+        "net_worth_usd": 14.2
+      },
+      {
+        "year": 2016,
+        "rank": 40,
+        "net_worth_usd": 17.5
+      },
+      {
+        "year": 2017,
+        "rank": 42,
+        "net_worth_usd": 19.9
+      },
+      {
+        "year": 2018,
+        "rank": 44,
+        "net_worth_usd": 21.7
+      }
+    ],
+    "peak_rank": 3,
+    "peak_net_worth": 30.4,
+    "first_appeared": 2000,
+    "status": "去世",
+    "notes": "微软联合创始人，2018年10月因非霍奇金淋巴瘤去世"
+  },
+  {
+    "name_en": "Karl Albrecht",
+    "name_cn": "卡尔·阿尔布雷希特",
+    "aliases": [
+      "Karl Albrecht & family",
+      "Karl & Theo Albrecht"
+    ],
+    "country": "德国",
+    "industry": "零售",
+    "main_company": "Aldi Süd",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 5,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2001,
+        "rank": 5,
+        "net_worth_usd": 25
+      },
+      {
+        "year": 2002,
+        "rank": 3,
+        "net_worth_usd": 26.8
+      },
+      {
+        "year": 2003,
+        "rank": 3,
+        "net_worth_usd": 25.6
+      },
+      {
+        "year": 2004,
+        "rank": 3,
+        "net_worth_usd": 23
+      },
+      {
+        "year": 2005,
+        "rank": 8,
+        "net_worth_usd": 18.5
+      },
+      {
+        "year": 2006,
+        "rank": 13,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2007,
+        "rank": 15,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2008,
+        "rank": 10,
+        "net_worth_usd": 27
+      },
+      {
+        "year": 2009,
+        "rank": 6,
+        "net_worth_usd": 21.5
+      },
+      {
+        "year": 2010,
+        "rank": 10,
+        "net_worth_usd": 23.5
+      },
+      {
+        "year": 2011,
+        "rank": 12,
+        "net_worth_usd": 25.5
+      },
+      {
+        "year": 2012,
+        "rank": 10,
+        "net_worth_usd": 25.4
+      },
+      {
+        "year": 2013,
+        "rank": 18,
+        "net_worth_usd": 26
+      },
+      {
+        "year": 2014,
+        "rank": 23,
+        "net_worth_usd": 25
+      }
+    ],
+    "peak_rank": 3,
+    "peak_net_worth": 27,
+    "first_appeared": 2000,
+    "status": "去世",
+    "notes": "Aldi超市联合创始人，2014年7月去世"
+  },
+  {
+    "name_en": "Lee Shau Kee",
+    "name_cn": "李兆基",
+    "aliases": [
+      "Lee Shau Kee"
+    ],
+    "country": "中国香港",
+    "industry": "地产",
+    "main_company": "Henderson Land",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 28,
+        "net_worth_usd": 8.6
+      },
+      {
+        "year": 2006,
+        "rank": 37,
+        "net_worth_usd": 11
+      },
+      {
+        "year": 2007,
+        "rank": 22,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2008,
+        "rank": 29,
+        "net_worth_usd": 19
+      },
+      {
+        "year": 2009,
+        "rank": 43,
+        "net_worth_usd": 9
+      },
+      {
+        "year": 2010,
+        "rank": 22,
+        "net_worth_usd": 18.5
+      },
+      {
+        "year": 2011,
+        "rank": 28,
+        "net_worth_usd": 19
+      },
+      {
+        "year": 2012,
+        "rank": 29,
+        "net_worth_usd": 18
+      },
+      {
+        "year": 2013,
+        "rank": 24,
+        "net_worth_usd": 20.3
+      },
+      {
+        "year": 2014,
+        "rank": 35,
+        "net_worth_usd": 19.6
+      },
+      {
+        "year": 2015,
+        "rank": 27,
+        "net_worth_usd": 24.8
+      },
+      {
+        "year": 2016,
+        "rank": 31,
+        "net_worth_usd": 21.5
+      },
+      {
+        "year": 2017,
+        "rank": 32,
+        "net_worth_usd": 24.4
+      },
+      {
+        "year": 2018,
+        "rank": 24,
+        "net_worth_usd": 30.3
+      },
+      {
+        "year": 2019,
+        "rank": 31,
+        "net_worth_usd": 23.9
+      }
+    ],
+    "peak_rank": 22,
+    "peak_net_worth": 30.3,
+    "first_appeared": 2000,
+    "status": "去世",
+    "notes": "恒基兆业地产创始人，2019年去世"
+  },
+  {
+    "name_en": "David Koch",
+    "name_cn": "大卫·科赫",
+    "aliases": [
+      "David H. Koch"
+    ],
+    "country": "美国",
+    "industry": "综合",
+    "main_company": "Koch Industries",
+    "appearances": [
+      {
+        "year": 2006,
+        "rank": 33,
+        "net_worth_usd": 12
+      },
+      {
+        "year": 2007,
+        "rank": 37,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2008,
+        "rank": 37,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2009,
+        "rank": 19,
+        "net_worth_usd": 14
+      },
+      {
+        "year": 2010,
+        "rank": 24,
+        "net_worth_usd": 17.5
+      },
+      {
+        "year": 2011,
+        "rank": 18,
+        "net_worth_usd": 22
+      },
+      {
+        "year": 2012,
+        "rank": 12,
+        "net_worth_usd": 25
+      },
+      {
+        "year": 2013,
+        "rank": 6,
+        "net_worth_usd": 34
+      },
+      {
+        "year": 2014,
+        "rank": 6,
+        "net_worth_usd": 40
+      },
+      {
+        "year": 2015,
+        "rank": 6,
+        "net_worth_usd": 42.9
+      },
+      {
+        "year": 2016,
+        "rank": 9,
+        "net_worth_usd": 39.6
+      },
+      {
+        "year": 2017,
+        "rank": 8,
+        "net_worth_usd": 48.3
+      },
+      {
+        "year": 2018,
+        "rank": 8,
+        "net_worth_usd": 60
+      },
+      {
+        "year": 2019,
+        "rank": 16,
+        "net_worth_usd": 43.5
+      }
+    ],
+    "peak_rank": 6,
+    "peak_net_worth": 60,
+    "first_appeared": 2006,
+    "status": "去世",
+    "notes": "科氏工业集团副董事长，2019年8月去世"
+  },
+  {
+    "name_en": "Abigail Johnson",
+    "name_cn": "阿比盖尔·约翰逊",
+    "aliases": [
+      "Abigail Johnson"
+    ],
+    "country": "美国",
+    "industry": "金融",
+    "main_company": "Fidelity Investments",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 37,
+        "net_worth_usd": 7.4
+      },
+      {
+        "year": 2001,
+        "rank": 30,
+        "net_worth_usd": 9.1
+      },
+      {
+        "year": 2002,
+        "rank": 29,
+        "net_worth_usd": 8.6
+      },
+      {
+        "year": 2003,
+        "rank": 25,
+        "net_worth_usd": 8.2
+      },
+      {
+        "year": 2005,
+        "rank": 25,
+        "net_worth_usd": 12
+      },
+      {
+        "year": 2006,
+        "rank": 28,
+        "net_worth_usd": 12.5
+      },
+      {
+        "year": 2007,
+        "rank": 42,
+        "net_worth_usd": 13
+      },
+      {
+        "year": 2008,
+        "rank": 43,
+        "net_worth_usd": 15
+      },
+      {
+        "year": 2009,
+        "rank": 35,
+        "net_worth_usd": 10
+      },
+      {
+        "year": 2010,
+        "rank": 48,
+        "net_worth_usd": 11.5
+      },
+      {
+        "year": 2014,
+        "rank": 50,
+        "net_worth_usd": 17.3
+      },
+      {
+        "year": 2023,
+        "rank": 39,
+        "net_worth_usd": 30.9
+      },
+      {
+        "year": 2024,
+        "rank": 36,
+        "net_worth_usd": 42.7
+      },
+      {
+        "year": 2025,
+        "rank": 37,
+        "net_worth_usd": 39.1
+      }
+    ],
+    "peak_rank": 25,
+    "peak_net_worth": 42.7,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "富达投资主席兼CEO"
+  },
+  {
+    "name_en": "Sheldon Adelson",
+    "name_cn": "谢尔登·阿德尔森",
+    "aliases": [
+      "Sheldon G. Adelson"
+    ],
+    "country": "美国",
+    "industry": "博彩",
+    "main_company": "Las Vegas Sands",
+    "appearances": [
+      {
+        "year": 2005,
+        "rank": 19,
+        "net_worth_usd": 15.6
+      },
+      {
+        "year": 2006,
+        "rank": 14,
+        "net_worth_usd": 16.1
+      },
+      {
+        "year": 2007,
+        "rank": 6,
+        "net_worth_usd": 26.5
+      },
+      {
+        "year": 2008,
+        "rank": 12,
+        "net_worth_usd": 26
+      },
+      {
+        "year": 2011,
+        "rank": 16,
+        "net_worth_usd": 23.3
+      },
+      {
+        "year": 2012,
+        "rank": 14,
+        "net_worth_usd": 24.9
+      },
+      {
+        "year": 2013,
+        "rank": 15,
+        "net_worth_usd": 26.5
+      },
+      {
+        "year": 2014,
+        "rank": 8,
+        "net_worth_usd": 38
+      },
+      {
+        "year": 2015,
+        "rank": 18,
+        "net_worth_usd": 31.4
+      },
+      {
+        "year": 2016,
+        "rank": 22,
+        "net_worth_usd": 25.2
+      },
+      {
+        "year": 2017,
+        "rank": 20,
+        "net_worth_usd": 30.4
+      },
+      {
+        "year": 2018,
+        "rank": 21,
+        "net_worth_usd": 38.5
+      },
+      {
+        "year": 2019,
+        "rank": 25,
+        "net_worth_usd": 33.2
+      }
+    ],
+    "peak_rank": 6,
+    "peak_net_worth": 38.5,
+    "first_appeared": 2005,
+    "status": "去世",
+    "notes": "拉斯维加斯金沙集团创始人，2021年1月去世"
+  },
+  {
+    "name_en": "Phil Knight",
+    "name_cn": "菲尔·奈特",
+    "aliases": [
+      "Philip Knight",
+      "Phil Knight & family"
+    ],
+    "country": "美国",
+    "industry": "消费品",
+    "main_company": "Nike",
+    "appearances": [
+      {
+        "year": 2002,
+        "rank": 45,
+        "net_worth_usd": 5.7
+      },
+      {
+        "year": 2005,
+        "rank": 46,
+        "net_worth_usd": 8.2
+      },
+      {
+        "year": 2012,
+        "rank": 47,
+        "net_worth_usd": 14.4
+      },
+      {
+        "year": 2014,
+        "rank": 42,
+        "net_worth_usd": 18.4
+      },
+      {
+        "year": 2015,
+        "rank": 35,
+        "net_worth_usd": 21.5
+      },
+      {
+        "year": 2016,
+        "rank": 24,
+        "net_worth_usd": 24.4
+      },
+      {
+        "year": 2017,
+        "rank": 28,
+        "net_worth_usd": 26.2
+      },
+      {
+        "year": 2018,
+        "rank": 28,
+        "net_worth_usd": 29.6
+      },
+      {
+        "year": 2019,
+        "rank": 26,
+        "net_worth_usd": 32.8
+      },
+      {
+        "year": 2021,
+        "rank": 26,
+        "net_worth_usd": 52.5
+      },
+      {
+        "year": 2022,
+        "rank": 25,
+        "net_worth_usd": 51.8
+      },
+      {
+        "year": 2023,
+        "rank": 27,
+        "net_worth_usd": 44.9
+      },
+      {
+        "year": 2025,
+        "rank": 46,
+        "net_worth_usd": 35.4
+      }
+    ],
+    "peak_rank": 24,
+    "peak_net_worth": 52.5,
+    "first_appeared": 2002,
+    "status": "在世",
+    "notes": "耐克联合创始人"
+  },
+  {
+    "name_en": "Azim Premji",
+    "name_cn": "阿齐姆·普莱姆基",
+    "aliases": [
+      "Azim Premji & family"
+    ],
+    "country": "印度",
+    "industry": "科技",
+    "main_company": "Wipro",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 43,
+        "net_worth_usd": 6.9
+      },
+      {
+        "year": 2001,
+        "rank": 42,
+        "net_worth_usd": 6.9
+      },
+      {
+        "year": 2002,
+        "rank": 41,
+        "net_worth_usd": 6.4
+      },
+      {
+        "year": 2003,
+        "rank": 45,
+        "net_worth_usd": 5.9
+      },
+      {
+        "year": 2005,
+        "rank": 38,
+        "net_worth_usd": 9.3
+      },
+      {
+        "year": 2006,
+        "rank": 25,
+        "net_worth_usd": 13.3
+      },
+      {
+        "year": 2007,
+        "rank": 21,
+        "net_worth_usd": 17.1
+      },
+      {
+        "year": 2010,
+        "rank": 28,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2011,
+        "rank": 36,
+        "net_worth_usd": 16.8
+      },
+      {
+        "year": 2012,
+        "rank": 41,
+        "net_worth_usd": 15.9
+      },
+      {
+        "year": 2015,
+        "rank": 48,
+        "net_worth_usd": 19.1
+      },
+      {
+        "year": 2019,
+        "rank": 50,
+        "net_worth_usd": 18.8
+      },
+      {
+        "year": 2021,
+        "rank": 43,
+        "net_worth_usd": 33.3
+      }
+    ],
+    "peak_rank": 21,
+    "peak_net_worth": 33.3,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "Wipro董事长，印度IT先驱"
+  },
+  {
+    "name_en": "Forrest Mars Jr.",
+    "name_cn": "福雷斯特·马尔斯二世",
+    "aliases": [
+      "Forrest Edward Mars Jr."
+    ],
+    "country": "美国",
+    "industry": "消费品",
+    "main_company": "Mars Inc.",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 40,
+        "net_worth_usd": 7
+      },
+      {
+        "year": 2001,
+        "rank": 31,
+        "net_worth_usd": 9
+      },
+      {
+        "year": 2002,
+        "rank": 26,
+        "net_worth_usd": 9
+      },
+      {
+        "year": 2003,
+        "rank": 21,
+        "net_worth_usd": 10
+      },
+      {
+        "year": 2004,
+        "rank": 27,
+        "net_worth_usd": 10.4
+      },
+      {
+        "year": 2005,
+        "rank": 32,
+        "net_worth_usd": 10.4
+      },
+      {
+        "year": 2006,
+        "rank": 44,
+        "net_worth_usd": 10
+      },
+      {
+        "year": 2008,
+        "rank": 46,
+        "net_worth_usd": 14
+      },
+      {
+        "year": 2009,
+        "rank": 43,
+        "net_worth_usd": 9
+      },
+      {
+        "year": 2013,
+        "rank": 36,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2014,
+        "rank": 31,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2015,
+        "rank": 22,
+        "net_worth_usd": 26.6
+      },
+      {
+        "year": 2016,
+        "rank": 27,
+        "net_worth_usd": 23.4
+      }
+    ],
+    "peak_rank": 21,
+    "peak_net_worth": 26.6,
+    "first_appeared": 2000,
+    "status": "去世",
+    "notes": "玛氏公司继承人，2016年去世"
+  },
+  {
+    "name_en": "Mark Zuckerberg",
+    "name_cn": "马克·扎克伯格",
+    "aliases": [
+      "Mark Elliot Zuckerberg"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Meta (Facebook)",
+    "appearances": [
+      {
+        "year": 2012,
+        "rank": 35,
+        "net_worth_usd": 17.5
+      },
+      {
+        "year": 2014,
+        "rank": 21,
+        "net_worth_usd": 28.5
+      },
+      {
+        "year": 2015,
+        "rank": 16,
+        "net_worth_usd": 33.4
+      },
+      {
+        "year": 2016,
+        "rank": 6,
+        "net_worth_usd": 44.6
+      },
+      {
+        "year": 2017,
+        "rank": 5,
+        "net_worth_usd": 56
+      },
+      {
+        "year": 2018,
+        "rank": 5,
+        "net_worth_usd": 71
+      },
+      {
+        "year": 2019,
+        "rank": 6,
+        "net_worth_usd": 66.5
+      },
+      {
+        "year": 2020,
+        "rank": 7,
+        "net_worth_usd": 54.7
+      },
+      {
+        "year": 2021,
+        "rank": 5,
+        "net_worth_usd": 125
+      },
+      {
+        "year": 2022,
+        "rank": 16,
+        "net_worth_usd": 64.8
+      },
+      {
+        "year": 2024,
+        "rank": 3,
+        "net_worth_usd": 202
+      },
+      {
+        "year": 2025,
+        "rank": 3,
+        "net_worth_usd": 207
+      }
+    ],
+    "peak_rank": 3,
+    "peak_net_worth": 207,
+    "first_appeared": 2012,
+    "status": "在世",
+    "notes": "Facebook（Meta）创始人，2024-2025年财富暴增"
+  },
+  {
+    "name_en": "Michael Bloomberg",
+    "name_cn": "迈克尔·布隆伯格",
+    "aliases": [
+      "Michael R. Bloomberg"
+    ],
+    "country": "美国",
+    "industry": "传媒",
+    "main_company": "Bloomberg L.P.",
+    "appearances": [
+      {
+        "year": 2009,
+        "rank": 17,
+        "net_worth_usd": 16
+      },
+      {
+        "year": 2010,
+        "rank": 23,
+        "net_worth_usd": 18
+      },
+      {
+        "year": 2011,
+        "rank": 30,
+        "net_worth_usd": 18.1
+      },
+      {
+        "year": 2012,
+        "rank": 20,
+        "net_worth_usd": 22
+      },
+      {
+        "year": 2013,
+        "rank": 13,
+        "net_worth_usd": 27
+      },
+      {
+        "year": 2014,
+        "rank": 16,
+        "net_worth_usd": 33
+      },
+      {
+        "year": 2015,
+        "rank": 14,
+        "net_worth_usd": 35.5
+      },
+      {
+        "year": 2016,
+        "rank": 8,
+        "net_worth_usd": 40
+      },
+      {
+        "year": 2017,
+        "rank": 10,
+        "net_worth_usd": 47.5
+      },
+      {
+        "year": 2018,
+        "rank": 11,
+        "net_worth_usd": 50
+      },
+      {
+        "year": 2020,
+        "rank": 15,
+        "net_worth_usd": 48
+      }
+    ],
+    "peak_rank": 8,
+    "peak_net_worth": 50,
+    "first_appeared": 2009,
+    "status": "在世",
+    "notes": "彭博社创始人，纽约市前市长"
+  },
+  {
+    "name_en": "George Soros",
+    "name_cn": "乔治·索罗斯",
+    "aliases": [
+      "George Soros"
+    ],
+    "country": "美国",
+    "industry": "金融",
+    "main_company": "Soros Fund Management",
+    "appearances": [
+      {
+        "year": 2002,
+        "rank": 37,
+        "net_worth_usd": 6.9
+      },
+      {
+        "year": 2003,
+        "rank": 38,
+        "net_worth_usd": 7
+      },
+      {
+        "year": 2009,
+        "rank": 29,
+        "net_worth_usd": 11
+      },
+      {
+        "year": 2010,
+        "rank": 35,
+        "net_worth_usd": 14
+      },
+      {
+        "year": 2011,
+        "rank": 46,
+        "net_worth_usd": 14.5
+      },
+      {
+        "year": 2012,
+        "rank": 22,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2013,
+        "rank": 30,
+        "net_worth_usd": 19.2
+      },
+      {
+        "year": 2014,
+        "rank": 26,
+        "net_worth_usd": 23
+      },
+      {
+        "year": 2015,
+        "rank": 29,
+        "net_worth_usd": 24.2
+      },
+      {
+        "year": 2016,
+        "rank": 23,
+        "net_worth_usd": 24.9
+      },
+      {
+        "year": 2017,
+        "rank": 29,
+        "net_worth_usd": 25.2
+      }
+    ],
+    "peak_rank": 22,
+    "peak_net_worth": 25.2,
+    "first_appeared": 2002,
+    "status": "去世",
+    "notes": "量子基金创始人，金融大鳄"
+  },
+  {
+    "name_en": "Carl Icahn",
+    "name_cn": "卡尔·伊坎",
+    "aliases": [
+      "Carl C. Icahn"
+    ],
+    "country": "美国",
+    "industry": "金融",
+    "main_company": "Icahn Enterprises",
+    "appearances": [
+      {
+        "year": 2003,
+        "rank": 48,
+        "net_worth_usd": 5.8
+      },
+      {
+        "year": 2004,
+        "rank": 47,
+        "net_worth_usd": 7.6
+      },
+      {
+        "year": 2005,
+        "rank": 49,
+        "net_worth_usd": 7.8
+      },
+      {
+        "year": 2007,
+        "rank": 42,
+        "net_worth_usd": 13
+      },
+      {
+        "year": 2008,
+        "rank": 46,
+        "net_worth_usd": 14
+      },
+      {
+        "year": 2009,
+        "rank": 43,
+        "net_worth_usd": 9
+      },
+      {
+        "year": 2012,
+        "rank": 50,
+        "net_worth_usd": 14
+      },
+      {
+        "year": 2013,
+        "rank": 26,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2014,
+        "rank": 25,
+        "net_worth_usd": 24.5
+      },
+      {
+        "year": 2016,
+        "rank": 43,
+        "net_worth_usd": 17
+      },
+      {
+        "year": 2019,
+        "rank": 40,
+        "net_worth_usd": 20.3
+      }
+    ],
+    "peak_rank": 25,
+    "peak_net_worth": 24.5,
+    "first_appeared": 2003,
+    "status": "在世",
+    "notes": "著名激进投资者，企业狙击手"
+  },
+  {
+    "name_en": "Ingvar Kamprad",
+    "name_cn": "英格瓦·坎普拉德",
+    "aliases": [
+      "Ingvar Kamprad & family"
+    ],
+    "country": "瑞典",
+    "industry": "零售",
+    "main_company": "IKEA",
+    "appearances": [
+      {
+        "year": 2001,
+        "rank": 17,
+        "net_worth_usd": 13
+      },
+      {
+        "year": 2002,
+        "rank": 16,
+        "net_worth_usd": 13.4
+      },
+      {
+        "year": 2003,
+        "rank": 14,
+        "net_worth_usd": 13
+      },
+      {
+        "year": 2004,
+        "rank": 13,
+        "net_worth_usd": 18.5
+      },
+      {
+        "year": 2005,
+        "rank": 6,
+        "net_worth_usd": 23
+      },
+      {
+        "year": 2006,
+        "rank": 4,
+        "net_worth_usd": 28
+      },
+      {
+        "year": 2007,
+        "rank": 4,
+        "net_worth_usd": 33
+      },
+      {
+        "year": 2008,
+        "rank": 7,
+        "net_worth_usd": 31
+      },
+      {
+        "year": 2009,
+        "rank": 5,
+        "net_worth_usd": 22
+      },
+      {
+        "year": 2010,
+        "rank": 11,
+        "net_worth_usd": 23
+      }
+    ],
+    "peak_rank": 4,
+    "peak_net_worth": 33,
+    "first_appeared": 2001,
+    "status": "去世",
+    "notes": "宜家家居创始人，2018年1月去世"
+  },
+  {
+    "name_en": "Leonardo Del Vecchio",
+    "name_cn": "莱昂纳多·德尔·韦基奥",
+    "aliases": [
+      "Leonardo Del Vecchio"
+    ],
+    "country": "意大利",
+    "industry": "奢侈品",
+    "main_company": "Luxottica",
+    "appearances": [
+      {
+        "year": 2001,
+        "rank": 43,
+        "net_worth_usd": 6.6
+      },
+      {
+        "year": 2002,
+        "rank": 39,
+        "net_worth_usd": 6.6
+      },
+      {
+        "year": 2006,
+        "rank": 44,
+        "net_worth_usd": 10
+      },
+      {
+        "year": 2013,
+        "rank": 49,
+        "net_worth_usd": 15.3
+      },
+      {
+        "year": 2014,
+        "rank": 38,
+        "net_worth_usd": 19.2
+      },
+      {
+        "year": 2015,
+        "rank": 40,
+        "net_worth_usd": 20.4
+      },
+      {
+        "year": 2016,
+        "rank": 37,
+        "net_worth_usd": 18.7
+      },
+      {
+        "year": 2017,
+        "rank": 50,
+        "net_worth_usd": 17.9
+      },
+      {
+        "year": 2018,
+        "rank": 45,
+        "net_worth_usd": 21.2
+      },
+      {
+        "year": 2019,
+        "rank": 41,
+        "net_worth_usd": 20
+      }
+    ],
+    "peak_rank": 37,
+    "peak_net_worth": 21.2,
+    "first_appeared": 2001,
+    "status": "去世",
+    "notes": "Luxottica创始人，2022年6月去世"
+  },
+  {
+    "name_en": "Lakshmi Mittal",
+    "name_cn": "拉克希米·米塔尔",
+    "aliases": [
+      "Lakshmi N. Mittal"
+    ],
+    "country": "印度",
+    "industry": "制造",
+    "main_company": "ArcelorMittal",
+    "appearances": [
+      {
+        "year": 2005,
+        "rank": 3,
+        "net_worth_usd": 25
+      },
+      {
+        "year": 2006,
+        "rank": 5,
+        "net_worth_usd": 23.5
+      },
+      {
+        "year": 2007,
+        "rank": 5,
+        "net_worth_usd": 32
+      },
+      {
+        "year": 2008,
+        "rank": 4,
+        "net_worth_usd": 45
+      },
+      {
+        "year": 2009,
+        "rank": 8,
+        "net_worth_usd": 19.3
+      },
+      {
+        "year": 2010,
+        "rank": 5,
+        "net_worth_usd": 28.7
+      },
+      {
+        "year": 2011,
+        "rank": 6,
+        "net_worth_usd": 31.1
+      },
+      {
+        "year": 2012,
+        "rank": 21,
+        "net_worth_usd": 20.7
+      },
+      {
+        "year": 2013,
+        "rank": 41,
+        "net_worth_usd": 16.5
+      }
+    ],
+    "peak_rank": 3,
+    "peak_net_worth": 45,
+    "first_appeared": 2005,
+    "status": "在世",
+    "notes": "安赛乐米塔尔董事长兼CEO，钢铁大王"
+  },
+  {
+    "name_en": "Jack Ma",
+    "name_cn": "马云",
+    "aliases": [
+      "Ma Yun"
+    ],
+    "country": "中国",
+    "industry": "科技",
+    "main_company": "Alibaba Group",
+    "appearances": [
+      {
+        "year": 2015,
+        "rank": 33,
+        "net_worth_usd": 22.7
+      },
+      {
+        "year": 2016,
+        "rank": 33,
+        "net_worth_usd": 20.5
+      },
+      {
+        "year": 2017,
+        "rank": 23,
+        "net_worth_usd": 28.3
+      },
+      {
+        "year": 2018,
+        "rank": 20,
+        "net_worth_usd": 39
+      },
+      {
+        "year": 2019,
+        "rank": 18,
+        "net_worth_usd": 41.8
+      },
+      {
+        "year": 2021,
+        "rank": 27,
+        "net_worth_usd": 49.3
+      },
+      {
+        "year": 2023,
+        "rank": 37,
+        "net_worth_usd": 32.9
+      },
+      {
+        "year": 2024,
+        "rank": 48,
+        "net_worth_usd": 34.8
+      },
+      {
+        "year": 2025,
+        "rank": 38,
+        "net_worth_usd": 38.9
+      }
+    ],
+    "peak_rank": 18,
+    "peak_net_worth": 49.3,
+    "first_appeared": 2015,
+    "status": "在世",
+    "notes": "阿里巴巴集团创始人"
+  },
+  {
+    "name_en": "Ma Huateng",
+    "name_cn": "马化腾",
+    "aliases": [
+      "Pony Ma"
+    ],
+    "country": "中国",
+    "industry": "科技",
+    "main_company": "Tencent",
+    "appearances": [
+      {
+        "year": 2016,
+        "rank": 46,
+        "net_worth_usd": 16.6
+      },
+      {
+        "year": 2017,
+        "rank": 31,
+        "net_worth_usd": 24.9
+      },
+      {
+        "year": 2018,
+        "rank": 17,
+        "net_worth_usd": 45.3
+      },
+      {
+        "year": 2019,
+        "rank": 20,
+        "net_worth_usd": 36.3
+      },
+      {
+        "year": 2021,
+        "rank": 21,
+        "net_worth_usd": 60.1
+      },
+      {
+        "year": 2023,
+        "rank": 32,
+        "net_worth_usd": 40.3
+      },
+      {
+        "year": 2024,
+        "rank": 28,
+        "net_worth_usd": 47.3
+      },
+      {
+        "year": 2025,
+        "rank": 25,
+        "net_worth_usd": 56.1
+      }
+    ],
+    "peak_rank": 17,
+    "peak_net_worth": 60.1,
+    "first_appeared": 2016,
+    "status": "在世",
+    "notes": "腾讯创始人兼CEO"
+  },
+  {
+    "name_en": "Jorge Paulo Lemann",
+    "name_cn": "豪尔赫·保罗·莱曼",
+    "aliases": [
+      "Jorge Paulo Lemann"
+    ],
+    "country": "巴西",
+    "industry": "消费品",
+    "main_company": "AB InBev / 3G Capital",
+    "appearances": [
+      {
+        "year": 2010,
+        "rank": 48,
+        "net_worth_usd": 11.5
+      },
+      {
+        "year": 2013,
+        "rank": 33,
+        "net_worth_usd": 17.8
+      },
+      {
+        "year": 2014,
+        "rank": 34,
+        "net_worth_usd": 19.7
+      },
+      {
+        "year": 2015,
+        "rank": 26,
+        "net_worth_usd": 25
+      },
+      {
+        "year": 2016,
+        "rank": 19,
+        "net_worth_usd": 27.8
+      },
+      {
+        "year": 2017,
+        "rank": 22,
+        "net_worth_usd": 29.2
+      },
+      {
+        "year": 2018,
+        "rank": 29,
+        "net_worth_usd": 27.4
+      },
+      {
+        "year": 2019,
+        "rank": 34,
+        "net_worth_usd": 21.6
+      }
+    ],
+    "peak_rank": 19,
+    "peak_net_worth": 29.2,
+    "first_appeared": 2010,
+    "status": "在世",
+    "notes": "百威英博最大股东，3G资本联合创始人"
+  },
+  {
+    "name_en": "Len Blavatnik",
+    "name_cn": "莱恩·布拉瓦特尼克",
+    "aliases": [
+      "Leonard Blavatnik"
+    ],
+    "country": "美国",
+    "industry": "综合",
+    "main_company": "Access Industries",
+    "appearances": [
+      {
+        "year": 2013,
+        "rank": 44,
+        "net_worth_usd": 16
+      },
+      {
+        "year": 2014,
+        "rank": 39,
+        "net_worth_usd": 18.7
+      },
+      {
+        "year": 2015,
+        "rank": 41,
+        "net_worth_usd": 20.2
+      },
+      {
+        "year": 2017,
+        "rank": 40,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2018,
+        "rank": 40,
+        "net_worth_usd": 20.2
+      },
+      {
+        "year": 2021,
+        "rank": 35,
+        "net_worth_usd": 38.2
+      },
+      {
+        "year": 2023,
+        "rank": 34,
+        "net_worth_usd": 35.8
+      },
+      {
+        "year": 2025,
+        "rank": 36,
+        "net_worth_usd": 39.3
+      }
+    ],
+    "peak_rank": 34,
+    "peak_net_worth": 39.3,
+    "first_appeared": 2013,
+    "status": "在世",
+    "notes": "Access Industries创始人"
+  },
+  {
+    "name_en": "Christy Walton",
+    "name_cn": "克里斯蒂·沃尔顿",
+    "aliases": [
+      "Christy Walton & family"
+    ],
+    "country": "美国",
+    "industry": "零售",
+    "main_company": "Walmart",
+    "appearances": [
+      {
+        "year": 2006,
+        "rank": 17,
+        "net_worth_usd": 15.9
+      },
+      {
+        "year": 2007,
+        "rank": 24,
+        "net_worth_usd": 16.7
+      },
+      {
+        "year": 2008,
+        "rank": 26,
+        "net_worth_usd": 19.2
+      },
+      {
+        "year": 2009,
+        "rank": 12,
+        "net_worth_usd": 17.6
+      },
+      {
+        "year": 2010,
+        "rank": 12,
+        "net_worth_usd": 22.5
+      },
+      {
+        "year": 2011,
+        "rank": 10,
+        "net_worth_usd": 26.5
+      },
+      {
+        "year": 2012,
+        "rank": 11,
+        "net_worth_usd": 25.3
+      },
+      {
+        "year": 2013,
+        "rank": 11,
+        "net_worth_usd": 28.2
+      }
+    ],
+    "peak_rank": 10,
+    "peak_net_worth": 28.2,
+    "first_appeared": 2006,
+    "status": "在世",
+    "notes": "John Walton遗孀，沃尔玛家族成员"
+  },
+  {
+    "name_en": "Roman Abramovich",
+    "name_cn": "罗曼·阿布拉莫维奇",
+    "aliases": [
+      "Roman A. Abramovich"
+    ],
+    "country": "俄罗斯",
+    "industry": "能源",
+    "main_company": "Millhouse LLC",
+    "appearances": [
+      {
+        "year": 2003,
+        "rank": 49,
+        "net_worth_usd": 5.7
+      },
+      {
+        "year": 2004,
+        "rank": 25,
+        "net_worth_usd": 10.6
+      },
+      {
+        "year": 2005,
+        "rank": 21,
+        "net_worth_usd": 13.3
+      },
+      {
+        "year": 2006,
+        "rank": 11,
+        "net_worth_usd": 18.2
+      },
+      {
+        "year": 2007,
+        "rank": 16,
+        "net_worth_usd": 18.7
+      },
+      {
+        "year": 2008,
+        "rank": 15,
+        "net_worth_usd": 23.5
+      },
+      {
+        "year": 2010,
+        "rank": 50,
+        "net_worth_usd": 11.2
+      }
+    ],
+    "peak_rank": 11,
+    "peak_net_worth": 23.5,
+    "first_appeared": 2003,
+    "status": "在世",
+    "notes": "俄罗斯寡头，切尔西足球俱乐部前老板"
+  },
+  {
+    "name_en": "Tadashi Yanai",
+    "name_cn": "柳井正",
+    "aliases": [
+      "Tadashi Yanai & family"
+    ],
+    "country": "日本",
+    "industry": "零售",
+    "main_company": "Fast Retailing (Uniqlo)",
+    "appearances": [
+      {
+        "year": 2014,
+        "rank": 45,
+        "net_worth_usd": 17.9
+      },
+      {
+        "year": 2015,
+        "rank": 41,
+        "net_worth_usd": 20.2
+      },
+      {
+        "year": 2019,
+        "rank": 30,
+        "net_worth_usd": 24.8
+      },
+      {
+        "year": 2021,
+        "rank": 34,
+        "net_worth_usd": 39.3
+      },
+      {
+        "year": 2023,
+        "rank": 40,
+        "net_worth_usd": 30.9
+      },
+      {
+        "year": 2024,
+        "rank": 27,
+        "net_worth_usd": 50.7
+      },
+      {
+        "year": 2025,
+        "rank": 29,
+        "net_worth_usd": 46.5
+      }
+    ],
+    "peak_rank": 27,
+    "peak_net_worth": 50.7,
+    "first_appeared": 2014,
+    "status": "在世",
+    "notes": "优衣库创始人兼迅销集团董事长"
+  },
+  {
+    "name_en": "Helen Walton",
+    "name_cn": "海伦·沃尔顿",
+    "aliases": [
+      "Helen R. Walton"
+    ],
+    "country": "美国",
+    "industry": "零售",
+    "main_company": "Walmart",
+    "appearances": [
+      {
+        "year": 2001,
+        "rank": 10,
+        "net_worth_usd": 18.5
+      },
+      {
+        "year": 2002,
+        "rank": 10,
+        "net_worth_usd": 20.4
+      },
+      {
+        "year": 2003,
+        "rank": 7,
+        "net_worth_usd": 16.5
+      },
+      {
+        "year": 2004,
+        "rank": 6,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2005,
+        "rank": 13,
+        "net_worth_usd": 18
+      },
+      {
+        "year": 2006,
+        "rank": 21,
+        "net_worth_usd": 15.6
+      },
+      {
+        "year": 2007,
+        "rank": 29,
+        "net_worth_usd": 16.4
+      }
+    ],
+    "peak_rank": 6,
+    "peak_net_worth": 20.4,
+    "first_appeared": 2001,
+    "status": "去世",
+    "notes": "沃尔玛创始人Sam Walton遗孀，2007年去世"
+  },
+  {
+    "name_en": "Theo Albrecht",
+    "name_cn": "西奥·阿尔布雷希特",
+    "aliases": [
+      "Theo Albrecht & family"
+    ],
+    "country": "德国",
+    "industry": "零售",
+    "main_company": "Aldi Nord",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 5,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2004,
+        "rank": 14,
+        "net_worth_usd": 18.1
+      },
+      {
+        "year": 2005,
+        "rank": 20,
+        "net_worth_usd": 15.5
+      },
+      {
+        "year": 2006,
+        "rank": 22,
+        "net_worth_usd": 15.2
+      },
+      {
+        "year": 2007,
+        "rank": 20,
+        "net_worth_usd": 17.5
+      },
+      {
+        "year": 2008,
+        "rank": 16,
+        "net_worth_usd": 23
+      },
+      {
+        "year": 2009,
+        "rank": 9,
+        "net_worth_usd": 18.8
+      }
+    ],
+    "peak_rank": 5,
+    "peak_net_worth": 23,
+    "first_appeared": 2000,
+    "status": "去世",
+    "notes": "Aldi超市联合创始人，2010年7月去世"
+  },
+  {
+    "name_en": "Elon Musk",
+    "name_cn": "埃隆·马斯克",
+    "aliases": [
+      "Elon R. Musk"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Tesla / SpaceX",
+    "appearances": [
+      {
+        "year": 2019,
+        "rank": 32,
+        "net_worth_usd": 22.8
+      },
+      {
+        "year": 2021,
+        "rank": 3,
+        "net_worth_usd": 168
+      },
+      {
+        "year": 2022,
+        "rank": 1,
+        "net_worth_usd": 219
+      },
+      {
+        "year": 2023,
+        "rank": 2,
+        "net_worth_usd": 176
+      },
+      {
+        "year": 2024,
+        "rank": 1,
+        "net_worth_usd": 334
+      },
+      {
+        "year": 2025,
+        "rank": 1,
+        "net_worth_usd": 333
+      }
+    ],
+    "peak_rank": 1,
+    "peak_net_worth": 334,
+    "first_appeared": 2019,
+    "status": "在世",
+    "notes": "2022、2024-2025年全球首富，Tesla和SpaceX CEO"
+  },
+  {
+    "name_en": "Francoise Bettencourt Meyers",
+    "name_cn": "弗朗索瓦丝·贝当古·迈耶斯",
+    "aliases": [
+      "Francoise Bettencourt-Meyers"
+    ],
+    "country": "法国",
+    "industry": "消费品",
+    "main_company": "L'Oréal",
+    "appearances": [
+      {
+        "year": 2018,
+        "rank": 18,
+        "net_worth_usd": 42.2
+      },
+      {
+        "year": 2019,
+        "rank": 11,
+        "net_worth_usd": 50.8
+      },
+      {
+        "year": 2021,
+        "rank": 11,
+        "net_worth_usd": 91.6
+      },
+      {
+        "year": 2022,
+        "rank": 11,
+        "net_worth_usd": 74.8
+      },
+      {
+        "year": 2023,
+        "rank": 12,
+        "net_worth_usd": 79.8
+      },
+      {
+        "year": 2025,
+        "rank": 19,
+        "net_worth_usd": 81.1
+      }
+    ],
+    "peak_rank": 11,
+    "peak_net_worth": 91.6,
+    "first_appeared": 2018,
+    "status": "在世",
+    "notes": "Liliane Bettencourt之女，欧莱雅集团最大股东"
+  },
+  {
+    "name_en": "Giovanni Ferrero",
+    "name_cn": "乔瓦尼·费列罗",
+    "aliases": [
+      "Giovanni Ferrero & family"
+    ],
+    "country": "意大利",
+    "industry": "消费品",
+    "main_company": "Ferrero",
+    "appearances": [
+      {
+        "year": 2018,
+        "rank": 37,
+        "net_worth_usd": 23
+      },
+      {
+        "year": 2019,
+        "rank": 33,
+        "net_worth_usd": 22.7
+      },
+      {
+        "year": 2021,
+        "rank": 38,
+        "net_worth_usd": 36.2
+      },
+      {
+        "year": 2022,
+        "rank": 28,
+        "net_worth_usd": 41
+      },
+      {
+        "year": 2024,
+        "rank": 45,
+        "net_worth_usd": 37.5
+      },
+      {
+        "year": 2025,
+        "rank": 41,
+        "net_worth_usd": 37.9
+      }
+    ],
+    "peak_rank": 28,
+    "peak_net_worth": 41,
+    "first_appeared": 2018,
+    "status": "在世",
+    "notes": "费列罗集团CEO，Michele Ferrero之子"
+  },
+  {
+    "name_en": "Silvio Berlusconi",
+    "name_cn": "西尔维奥·贝卢斯科尼",
+    "aliases": [
+      "Silvio Berlusconi"
+    ],
+    "country": "意大利",
+    "industry": "传媒",
+    "main_company": "Fininvest / Mediaset",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 14,
+        "net_worth_usd": 12.8
+      },
+      {
+        "year": 2001,
+        "rank": 29,
+        "net_worth_usd": 10.3
+      },
+      {
+        "year": 2002,
+        "rank": 35,
+        "net_worth_usd": 7.2
+      },
+      {
+        "year": 2003,
+        "rank": 45,
+        "net_worth_usd": 5.9
+      },
+      {
+        "year": 2005,
+        "rank": 25,
+        "net_worth_usd": 12
+      },
+      {
+        "year": 2006,
+        "rank": 37,
+        "net_worth_usd": 11
+      }
+    ],
+    "peak_rank": 14,
+    "peak_net_worth": 12.8,
+    "first_appeared": 2000,
+    "status": "去世",
+    "notes": "意大利前总理，传媒大亨，2023年6月去世"
+  },
+  {
+    "name_en": "Vladimir Potanin",
+    "name_cn": "弗拉基米尔·波塔宁",
+    "aliases": [
+      "Vladimir Potanin"
+    ],
+    "country": "俄罗斯",
+    "industry": "矿业",
+    "main_company": "Norilsk Nickel",
+    "appearances": [
+      {
+        "year": 2007,
+        "rank": 38,
+        "net_worth_usd": 13.5
+      },
+      {
+        "year": 2008,
+        "rank": 25,
+        "net_worth_usd": 19.3
+      },
+      {
+        "year": 2011,
+        "rank": 34,
+        "net_worth_usd": 17.8
+      },
+      {
+        "year": 2019,
+        "rank": 35,
+        "net_worth_usd": 21.5
+      },
+      {
+        "year": 2021,
+        "rank": 44,
+        "net_worth_usd": 33.2
+      },
+      {
+        "year": 2023,
+        "rank": 46,
+        "net_worth_usd": 28.3
+      }
+    ],
+    "peak_rank": 25,
+    "peak_net_worth": 33.2,
+    "first_appeared": 2007,
+    "status": "在世",
+    "notes": "俄罗斯诺里尔斯克镍业公司总裁"
+  },
+  {
+    "name_en": "German Larrea",
+    "name_cn": "赫尔曼·拉雷亚",
+    "aliases": [
+      "German Larrea Mota Velasco"
+    ],
+    "country": "墨西哥",
+    "industry": "矿业",
+    "main_company": "Grupo Mexico",
+    "appearances": [
+      {
+        "year": 2011,
+        "rank": 39,
+        "net_worth_usd": 16
+      },
+      {
+        "year": 2012,
+        "rank": 48,
+        "net_worth_usd": 14.2
+      },
+      {
+        "year": 2013,
+        "rank": 40,
+        "net_worth_usd": 16.7
+      },
+      {
+        "year": 2023,
+        "rank": 43,
+        "net_worth_usd": 29.1
+      },
+      {
+        "year": 2024,
+        "rank": 49,
+        "net_worth_usd": 33.4
+      },
+      {
+        "year": 2025,
+        "rank": 47,
+        "net_worth_usd": 35.1
+      }
+    ],
+    "peak_rank": 39,
+    "peak_net_worth": 35.1,
+    "first_appeared": 2011,
+    "status": "在世",
+    "notes": "墨西哥集团（Grupo Mexico）董事长"
+  },
+  {
+    "name_en": "Julia Flesher Koch",
+    "name_cn": "朱莉娅·科赫",
+    "aliases": [
+      "Julia Koch",
+      "Julia Koch & family"
+    ],
+    "country": "美国",
+    "industry": "综合",
+    "main_company": "Koch Industries",
+    "appearances": [
+      {
+        "year": 2021,
+        "rank": 17,
+        "net_worth_usd": 65
+      },
+      {
+        "year": 2022,
+        "rank": 10,
+        "net_worth_usd": 74
+      },
+      {
+        "year": 2023,
+        "rank": 15,
+        "net_worth_usd": 67.2
+      },
+      {
+        "year": 2024,
+        "rank": 19,
+        "net_worth_usd": 76.7
+      },
+      {
+        "year": 2025,
+        "rank": 20,
+        "net_worth_usd": 76
+      }
+    ],
+    "peak_rank": 10,
+    "peak_net_worth": 76.7,
+    "first_appeared": 2021,
+    "status": "在世",
+    "notes": "David Koch遗孀，继承科氏工业股份"
+  },
+  {
+    "name_en": "Wang Jianlin",
+    "name_cn": "王健林",
+    "aliases": [
+      "Wang Jianlin"
+    ],
+    "country": "中国",
+    "industry": "地产",
+    "main_company": "Dalian Wanda Group",
+    "appearances": [
+      {
+        "year": 2015,
+        "rank": 29,
+        "net_worth_usd": 24.2
+      },
+      {
+        "year": 2016,
+        "rank": 18,
+        "net_worth_usd": 28.7
+      },
+      {
+        "year": 2017,
+        "rank": 18,
+        "net_worth_usd": 31.3
+      },
+      {
+        "year": 2018,
+        "rank": 26,
+        "net_worth_usd": 30
+      },
+      {
+        "year": 2019,
+        "rank": 45,
+        "net_worth_usd": 19.5
+      }
+    ],
+    "peak_rank": 18,
+    "peak_net_worth": 31.3,
+    "first_appeared": 2015,
+    "status": "在世",
+    "notes": "万达集团创始人"
+  },
+  {
+    "name_en": "Gautam Adani",
+    "name_cn": "高塔姆·阿达尼",
+    "aliases": [
+      "Gautam S. Adani"
+    ],
+    "country": "印度",
+    "industry": "综合",
+    "main_company": "Adani Group",
+    "appearances": [
+      {
+        "year": 2021,
+        "rank": 14,
+        "net_worth_usd": 77.8
+      },
+      {
+        "year": 2022,
+        "rank": 5,
+        "net_worth_usd": 90
+      },
+      {
+        "year": 2023,
+        "rank": 28,
+        "net_worth_usd": 44.7
+      },
+      {
+        "year": 2024,
+        "rank": 20,
+        "net_worth_usd": 75.5
+      },
+      {
+        "year": 2025,
+        "rank": 21,
+        "net_worth_usd": 74.8
+      }
+    ],
+    "peak_rank": 5,
+    "peak_net_worth": 90,
+    "first_appeared": 2021,
+    "status": "在世",
+    "notes": "阿达尼集团创始人，印度基础设施巨头"
+  },
+  {
+    "name_en": "Rupert Murdoch",
+    "name_cn": "鲁伯特·默多克",
+    "aliases": [
+      "Keith Rupert Murdoch"
+    ],
+    "country": "美国",
+    "industry": "传媒",
+    "main_company": "News Corp / Fox",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 23,
+        "net_worth_usd": 9.4
+      },
+      {
+        "year": 2001,
+        "rank": 39,
+        "net_worth_usd": 7.8
+      },
+      {
+        "year": 2002,
+        "rank": 45,
+        "net_worth_usd": 5.7
+      },
+      {
+        "year": 2004,
+        "rank": 43,
+        "net_worth_usd": 7.8
+      },
+      {
+        "year": 2019,
+        "rank": 47,
+        "net_worth_usd": 19
+      }
+    ],
+    "peak_rank": 23,
+    "peak_net_worth": 19,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "新闻集团和福克斯公司创始人"
+  },
+  {
+    "name_en": "John Walton",
+    "name_cn": "约翰·沃尔顿",
+    "aliases": [
+      "John T. Walton"
+    ],
+    "country": "美国",
+    "industry": "零售",
+    "main_company": "Walmart",
+    "appearances": [
+      {
+        "year": 2001,
+        "rank": 8,
+        "net_worth_usd": 18.7
+      },
+      {
+        "year": 2002,
+        "rank": 7,
+        "net_worth_usd": 20.7
+      },
+      {
+        "year": 2003,
+        "rank": 7,
+        "net_worth_usd": 16.5
+      },
+      {
+        "year": 2004,
+        "rank": 6,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2005,
+        "rank": 11,
+        "net_worth_usd": 18.2
+      }
+    ],
+    "peak_rank": 6,
+    "peak_net_worth": 20.7,
+    "first_appeared": 2001,
+    "status": "去世",
+    "notes": "沃尔玛创始人Sam Walton之子，2005年因飞机事故去世"
+  },
+  {
+    "name_en": "Vladimir Lisin",
+    "name_cn": "弗拉基米尔·利辛",
+    "aliases": [
+      "Vladimir Lisin"
+    ],
+    "country": "俄罗斯",
+    "industry": "制造",
+    "main_company": "NLMK",
+    "appearances": [
+      {
+        "year": 2006,
+        "rank": 41,
+        "net_worth_usd": 10.7
+      },
+      {
+        "year": 2007,
+        "rank": 36,
+        "net_worth_usd": 14.3
+      },
+      {
+        "year": 2008,
+        "rank": 21,
+        "net_worth_usd": 20.3
+      },
+      {
+        "year": 2011,
+        "rank": 14,
+        "net_worth_usd": 24
+      },
+      {
+        "year": 2012,
+        "rank": 41,
+        "net_worth_usd": 15.9
+      }
+    ],
+    "peak_rank": 14,
+    "peak_net_worth": 24,
+    "first_appeared": 2006,
+    "status": "在世",
+    "notes": "俄罗斯钢铁巨头"
+  },
+  {
+    "name_en": "Alain Wertheimer",
+    "name_cn": "阿兰·韦特海默",
+    "aliases": [
+      "Alain Wertheimer"
+    ],
+    "country": "法国",
+    "industry": "奢侈品",
+    "main_company": "Chanel",
+    "appearances": [
+      {
+        "year": 2019,
+        "rank": 37,
+        "net_worth_usd": 21
+      },
+      {
+        "year": 2021,
+        "rank": 30,
+        "net_worth_usd": 45.6
+      },
+      {
+        "year": 2023,
+        "rank": 24,
+        "net_worth_usd": 48.3
+      },
+      {
+        "year": 2024,
+        "rank": 33,
+        "net_worth_usd": 43
+      },
+      {
+        "year": 2025,
+        "rank": 32,
+        "net_worth_usd": 42.4
+      }
+    ],
+    "peak_rank": 24,
+    "peak_net_worth": 48.3,
+    "first_appeared": 2019,
+    "status": "在世",
+    "notes": "香奈儿共同所有者"
+  },
+  {
+    "name_en": "Gerard Wertheimer",
+    "name_cn": "杰拉德·韦特海默",
+    "aliases": [
+      "Gerard Wertheimer"
+    ],
+    "country": "法国",
+    "industry": "奢侈品",
+    "main_company": "Chanel",
+    "appearances": [
+      {
+        "year": 2019,
+        "rank": 38,
+        "net_worth_usd": 21
+      },
+      {
+        "year": 2021,
+        "rank": 31,
+        "net_worth_usd": 45.6
+      },
+      {
+        "year": 2023,
+        "rank": 25,
+        "net_worth_usd": 48.3
+      },
+      {
+        "year": 2024,
+        "rank": 34,
+        "net_worth_usd": 43
+      },
+      {
+        "year": 2025,
+        "rank": 33,
+        "net_worth_usd": 42.4
+      }
+    ],
+    "peak_rank": 25,
+    "peak_net_worth": 48.3,
+    "first_appeared": 2019,
+    "status": "在世",
+    "notes": "香奈儿共同所有者"
+  },
+  {
+    "name_en": "Masayoshi Son",
+    "name_cn": "孙正义",
+    "aliases": [
+      "Masayoshi Son"
+    ],
+    "country": "日本",
+    "industry": "科技",
+    "main_company": "SoftBank Group",
+    "appearances": [
+      {
+        "year": 2000,
+        "rank": 8,
+        "net_worth_usd": 19.4
+      },
+      {
+        "year": 2014,
+        "rank": 42,
+        "net_worth_usd": 18.4
+      },
+      {
+        "year": 2017,
+        "rank": 34,
+        "net_worth_usd": 21.2
+      },
+      {
+        "year": 2018,
+        "rank": 39,
+        "net_worth_usd": 22.7
+      }
+    ],
+    "peak_rank": 8,
+    "peak_net_worth": 22.7,
+    "first_appeared": 2000,
+    "status": "在世",
+    "notes": "软银集团创始人兼CEO"
+  },
+  {
+    "name_en": "Colin Huang",
+    "name_cn": "黄峥",
+    "aliases": [
+      "Huang Zheng"
+    ],
+    "country": "中国",
+    "industry": "科技",
+    "main_company": "PDD Holdings (Pinduoduo/Temu)",
+    "appearances": [
+      {
+        "year": 2021,
+        "rank": 32,
+        "net_worth_usd": 45.1
+      },
+      {
+        "year": 2023,
+        "rank": 35,
+        "net_worth_usd": 33.7
+      },
+      {
+        "year": 2024,
+        "rank": 47,
+        "net_worth_usd": 34.8
+      },
+      {
+        "year": 2025,
+        "rank": 34,
+        "net_worth_usd": 42
+      }
+    ],
+    "peak_rank": 32,
+    "peak_net_worth": 45.1,
+    "first_appeared": 2021,
+    "status": "在世",
+    "notes": "拼多多/Temu创始人"
+  },
+  {
+    "name_en": "Zhang Yiming",
+    "name_cn": "张一鸣",
+    "aliases": [
+      "Zhang Yiming"
+    ],
+    "country": "中国",
+    "industry": "科技",
+    "main_company": "ByteDance (TikTok)",
+    "appearances": [
+      {
+        "year": 2021,
+        "rank": 33,
+        "net_worth_usd": 44.5
+      },
+      {
+        "year": 2023,
+        "rank": 21,
+        "net_worth_usd": 54.9
+      },
+      {
+        "year": 2024,
+        "rank": 35,
+        "net_worth_usd": 43
+      },
+      {
+        "year": 2025,
+        "rank": 24,
+        "net_worth_usd": 57.5
+      }
+    ],
+    "peak_rank": 21,
+    "peak_net_worth": 57.5,
+    "first_appeared": 2021,
+    "status": "在世",
+    "notes": "字节跳动创始人，TikTok缔造者"
+  },
+  {
+    "name_en": "Zhong Shanshan",
+    "name_cn": "钟睒睒",
+    "aliases": [
+      "Zhong Shanshan"
+    ],
+    "country": "中国",
+    "industry": "消费品",
+    "main_company": "Nongfu Spring",
+    "appearances": [
+      {
+        "year": 2021,
+        "rank": 15,
+        "net_worth_usd": 71
+      },
+      {
+        "year": 2022,
+        "rank": 15,
+        "net_worth_usd": 59.7
+      },
+      {
+        "year": 2023,
+        "rank": 13,
+        "net_worth_usd": 67.5
+      },
+      {
+        "year": 2024,
+        "rank": 26,
+        "net_worth_usd": 53.6
+      }
+    ],
+    "peak_rank": 13,
+    "peak_net_worth": 71,
+    "first_appeared": 2021,
+    "status": "在世",
+    "notes": "农夫山泉创始人，曾为中国首富"
+  },
+  {
+    "name_en": "Alisher Usmanov",
+    "name_cn": "阿利舍尔·乌斯马诺夫",
+    "aliases": [
+      "Alisher B. Usmanov"
+    ],
+    "country": "俄罗斯",
+    "industry": "矿业",
+    "main_company": "Metalloinvest",
+    "appearances": [
+      {
+        "year": 2011,
+        "rank": 35,
+        "net_worth_usd": 17.7
+      },
+      {
+        "year": 2012,
+        "rank": 28,
+        "net_worth_usd": 18.1
+      },
+      {
+        "year": 2013,
+        "rank": 34,
+        "net_worth_usd": 17.6
+      },
+      {
+        "year": 2014,
+        "rank": 40,
+        "net_worth_usd": 18.6
+      }
+    ],
+    "peak_rank": 28,
+    "peak_net_worth": 18.6,
+    "first_appeared": 2011,
+    "status": "在世",
+    "notes": "俄罗斯金属和矿业寡头"
+  },
+  {
+    "name_en": "Mikhail Fridman",
+    "name_cn": "米哈伊尔·弗里德曼",
+    "aliases": [
+      "Mikhail Fridman"
+    ],
+    "country": "俄罗斯",
+    "industry": "综合",
+    "main_company": "Alfa Group",
+    "appearances": [
+      {
+        "year": 2006,
+        "rank": 50,
+        "net_worth_usd": 9.7
+      },
+      {
+        "year": 2008,
+        "rank": 20,
+        "net_worth_usd": 20.8
+      },
+      {
+        "year": 2011,
+        "rank": 43,
+        "net_worth_usd": 15.1
+      },
+      {
+        "year": 2013,
+        "rank": 41,
+        "net_worth_usd": 16.5
+      }
+    ],
+    "peak_rank": 20,
+    "peak_net_worth": 20.8,
+    "first_appeared": 2006,
+    "status": "在世",
+    "notes": "俄罗斯寡头，阿尔法集团联合创始人"
+  },
+  {
+    "name_en": "Thomas Peterffy",
+    "name_cn": "托马斯·彼得菲",
+    "aliases": [
+      "Thomas Peterffy"
+    ],
+    "country": "美国",
+    "industry": "金融",
+    "main_company": "Interactive Brokers",
+    "appearances": [
+      {
+        "year": 2018,
+        "rank": 47,
+        "net_worth_usd": 20.3
+      },
+      {
+        "year": 2023,
+        "rank": 47,
+        "net_worth_usd": 27.4
+      },
+      {
+        "year": 2024,
+        "rank": 24,
+        "net_worth_usd": 57.4
+      },
+      {
+        "year": 2025,
+        "rank": 27,
+        "net_worth_usd": 53.5
+      }
+    ],
+    "peak_rank": 24,
+    "peak_net_worth": 57.4,
+    "first_appeared": 2018,
+    "status": "在世",
+    "notes": "盈透证券创始人"
+  },
+  {
+    "name_en": "Zeng Yuqun",
+    "name_cn": "曾毓群",
+    "aliases": [
+      "Robin Zeng"
+    ],
+    "country": "中国香港",
+    "industry": "制造",
+    "main_company": "CATL",
+    "appearances": [
+      {
+        "year": 2021,
+        "rank": 37,
+        "net_worth_usd": 36.7
+      },
+      {
+        "year": 2023,
+        "rank": 36,
+        "net_worth_usd": 33.3
+      },
+      {
+        "year": 2024,
+        "rank": 43,
+        "net_worth_usd": 38.2
+      },
+      {
+        "year": 2025,
+        "rank": 44,
+        "net_worth_usd": 36.6
+      }
+    ],
+    "peak_rank": 36,
+    "peak_net_worth": 38.2,
+    "first_appeared": 2021,
+    "status": "在世",
+    "notes": "宁德时代创始人，动力电池之王"
+  },
+  {
+    "name_en": "Eike Batista",
+    "name_cn": "艾克·巴蒂斯塔",
+    "aliases": [
+      "Eike Fuhrken Batista"
+    ],
+    "country": "巴西",
+    "industry": "矿业",
+    "main_company": "EBX Group",
+    "appearances": [
+      {
+        "year": 2010,
+        "rank": 8,
+        "net_worth_usd": 27
+      },
+      {
+        "year": 2011,
+        "rank": 8,
+        "net_worth_usd": 30
+      },
+      {
+        "year": 2012,
+        "rank": 7,
+        "net_worth_usd": 30
+      }
+    ],
+    "peak_rank": 7,
+    "peak_net_worth": 30,
+    "first_appeared": 2010,
+    "status": "在世",
+    "notes": "巴西矿业大亨，后因公司破产跌出榜单"
+  },
+  {
+    "name_en": "MacKenzie Scott",
+    "name_cn": "麦肯齐·斯科特",
+    "aliases": [
+      "MacKenzie Bezos"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Amazon (divorce settlement)",
+    "appearances": [
+      {
+        "year": 2021,
+        "rank": 24,
+        "net_worth_usd": 56.6
+      },
+      {
+        "year": 2023,
+        "rank": 43,
+        "net_worth_usd": 38.3
+      },
+      {
+        "year": 2024,
+        "rank": 42,
+        "net_worth_usd": 38.3
+      }
+    ],
+    "peak_rank": 24,
+    "peak_net_worth": 56.6,
+    "first_appeared": 2021,
+    "status": "在世",
+    "notes": "Jeff Bezos前妻，著名慈善家"
+  },
+  {
+    "name_en": "Laurene Powell Jobs",
+    "name_cn": "劳伦·鲍威尔·乔布斯",
+    "aliases": [
+      "Laurene Powell Jobs"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Apple (Steve Jobs estate)",
+    "appearances": [
+      {
+        "year": 2015,
+        "rank": 45,
+        "net_worth_usd": 19.5
+      },
+      {
+        "year": 2017,
+        "rank": 40,
+        "net_worth_usd": 20
+      },
+      {
+        "year": 2019,
+        "rank": 46,
+        "net_worth_usd": 19.3
+      }
+    ],
+    "peak_rank": 40,
+    "peak_net_worth": 20,
+    "first_appeared": 2015,
+    "status": "在世",
+    "notes": "史蒂夫·乔布斯遗孀"
+  },
+  {
+    "name_en": "Klaus-Michael Kuehne",
+    "name_cn": "克劳斯-米夏埃尔·库恩",
+    "aliases": [
+      "Klaus-Michael Kuehne"
+    ],
+    "country": "德国",
+    "industry": "制造",
+    "main_company": "Kuehne + Nagel",
+    "appearances": [
+      {
+        "year": 2021,
+        "rank": 36,
+        "net_worth_usd": 37.9
+      },
+      {
+        "year": 2023,
+        "rank": 31,
+        "net_worth_usd": 40.8
+      },
+      {
+        "year": 2025,
+        "rank": 39,
+        "net_worth_usd": 38.6
+      }
+    ],
+    "peak_rank": 31,
+    "peak_net_worth": 40.8,
+    "first_appeared": 2021,
+    "status": "在世",
+    "notes": "德迅物流集团荣誉主席"
+  },
+  {
+    "name_en": "Shiv Nadar",
+    "name_cn": "希夫·纳达尔",
+    "aliases": [
+      "Shiv Nadar"
+    ],
+    "country": "印度",
+    "industry": "科技",
+    "main_company": "HCL Technologies",
+    "appearances": [
+      {
+        "year": 2023,
+        "rank": 50,
+        "net_worth_usd": 26.1
+      },
+      {
+        "year": 2024,
+        "rank": 32,
+        "net_worth_usd": 43.2
+      },
+      {
+        "year": 2025,
+        "rank": 46,
+        "net_worth_usd": 35.7
+      }
+    ],
+    "peak_rank": 32,
+    "peak_net_worth": 43.2,
+    "first_appeared": 2023,
+    "status": "在世",
+    "notes": "HCL科技创始人，印度IT先驱"
+  },
+  {
+    "name_en": "Stephen Schwarzman",
+    "name_cn": "斯蒂芬·施瓦茨曼",
+    "aliases": [
+      "Stephen A. Schwarzman"
+    ],
+    "country": "美国",
+    "industry": "金融",
+    "main_company": "Blackstone Group",
+    "appearances": [
+      {
+        "year": 2023,
+        "rank": 41,
+        "net_worth_usd": 30.5
+      },
+      {
+        "year": 2024,
+        "rank": 25,
+        "net_worth_usd": 57.3
+      },
+      {
+        "year": 2025,
+        "rank": 28,
+        "net_worth_usd": 48
+      }
+    ],
+    "peak_rank": 25,
+    "peak_net_worth": 57.3,
+    "first_appeared": 2023,
+    "status": "在世",
+    "notes": "黑石集团联合创始人兼CEO"
+  },
+  {
+    "name_en": "Ken Griffin",
+    "name_cn": "肯·格里芬",
+    "aliases": [
+      "Ken Griffin"
+    ],
+    "country": "美国",
+    "industry": "金融",
+    "main_company": "Citadel",
+    "appearances": [
+      {
+        "year": 2023,
+        "rank": 42,
+        "net_worth_usd": 30.3
+      },
+      {
+        "year": 2024,
+        "rank": 37,
+        "net_worth_usd": 42.6
+      },
+      {
+        "year": 2025,
+        "rank": 35,
+        "net_worth_usd": 41.8
+      }
+    ],
+    "peak_rank": 35,
+    "peak_net_worth": 42.6,
+    "first_appeared": 2023,
+    "status": "在世",
+    "notes": "城堡对冲基金创始人"
+  },
+  {
+    "name_en": "Jeff Yass",
+    "name_cn": "杰夫·亚斯",
+    "aliases": [
+      "Jeff Yass"
+    ],
+    "country": "美国",
+    "industry": "金融",
+    "main_company": "Susquehanna International Group",
+    "appearances": [
+      {
+        "year": 2023,
+        "rank": 38,
+        "net_worth_usd": 32.8
+      },
+      {
+        "year": 2024,
+        "rank": 31,
+        "net_worth_usd": 43.5
+      },
+      {
+        "year": 2025,
+        "rank": 23,
+        "net_worth_usd": 59.7
+      }
+    ],
+    "peak_rank": 23,
+    "peak_net_worth": 59.7,
+    "first_appeared": 2023,
+    "status": "在世",
+    "notes": "SIG联合创始人"
+  },
+  {
+    "name_en": "William Ding",
+    "name_cn": "丁磊",
+    "aliases": [
+      "William Ding"
+    ],
+    "country": "中国",
+    "industry": "科技",
+    "main_company": "NetEase",
+    "appearances": [
+      {
+        "year": 2021,
+        "rank": 39,
+        "net_worth_usd": 36
+      },
+      {
+        "year": 2023,
+        "rank": 49,
+        "net_worth_usd": 26.5
+      },
+      {
+        "year": 2025,
+        "rank": 49,
+        "net_worth_usd": 33.9
+      }
+    ],
+    "peak_rank": 39,
+    "peak_net_worth": 36,
+    "first_appeared": 2021,
+    "status": "在世",
+    "notes": "网易创始人兼CEO"
+  },
+  {
+    "name_en": "Shapoor Mistry",
+    "name_cn": "沙普尔·米斯特里",
+    "aliases": [
+      "Shapoor Mistry",
+      "Pallonji Mistry"
+    ],
+    "country": "印度",
+    "industry": "综合",
+    "main_company": "Shapoorji Pallonji Group",
+    "appearances": [
+      {
+        "year": 2023,
+        "rank": 45,
+        "net_worth_usd": 28.5
+      },
+      {
+        "year": 2024,
+        "rank": 39,
+        "net_worth_usd": 40.6
+      },
+      {
+        "year": 2025,
+        "rank": 48,
+        "net_worth_usd": 35
+      }
+    ],
+    "peak_rank": 39,
+    "peak_net_worth": 40.6,
+    "first_appeared": 2023,
+    "status": "在世",
+    "notes": "Shapoorji Pallonji集团董事长"
+  },
+  {
+    "name_en": "Miriam Adelson",
+    "name_cn": "米丽亚姆·阿德尔森",
+    "aliases": [
+      "Miriam Adelson"
+    ],
+    "country": "美国",
+    "industry": "博彩",
+    "main_company": "Las Vegas Sands",
+    "appearances": [
+      {
+        "year": 2021,
+        "rank": 42,
+        "net_worth_usd": 34
+      },
+      {
+        "year": 2023,
+        "rank": 33,
+        "net_worth_usd": 37.1
+      },
+      {
+        "year": 2024,
+        "rank": 44,
+        "net_worth_usd": 37.5
+      }
+    ],
+    "peak_rank": 33,
+    "peak_net_worth": 37.5,
+    "first_appeared": 2021,
+    "status": "在世",
+    "notes": "Sheldon Adelson遗孀，继承金沙集团股份"
+  },
+  {
+    "name_en": "Leonid Mikhelson",
+    "name_cn": "列昂尼德·米赫尔松",
+    "aliases": [
+      "Leonid Mikhelson"
+    ],
+    "country": "俄罗斯",
+    "industry": "能源",
+    "main_company": "Novatek",
+    "appearances": [
+      {
+        "year": 2013,
+        "rank": 47,
+        "net_worth_usd": 15.4
+      },
+      {
+        "year": 2017,
+        "rank": 46,
+        "net_worth_usd": 18.4
+      },
+      {
+        "year": 2021,
+        "rank": 48,
+        "net_worth_usd": 30.6
+      }
+    ],
+    "peak_rank": 46,
+    "peak_net_worth": 30.6,
+    "first_appeared": 2013,
+    "status": "在世",
+    "notes": "俄罗斯天然气生产商Novatek董事长"
+  },
+  {
+    "name_en": "Jensen Huang",
+    "name_cn": "黄仁勋",
+    "aliases": [
+      "Jen-Hsun Huang"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "NVIDIA",
+    "appearances": [
+      {
+        "year": 2024,
+        "rank": 11,
+        "net_worth_usd": 118
+      },
+      {
+        "year": 2025,
+        "rank": 16,
+        "net_worth_usd": 96.9
+      }
+    ],
+    "peak_rank": 11,
+    "peak_net_worth": 118,
+    "first_appeared": 2024,
+    "status": "在世",
+    "notes": "英伟达联合创始人兼CEO，AI芯片之父"
+  },
+  {
+    "name_en": "Aliko Dangote",
+    "name_cn": "阿里科·丹格特",
+    "aliases": [
+      "Aliko Dangote"
+    ],
+    "country": "尼日利亚",
+    "industry": "制造",
+    "main_company": "Dangote Group",
+    "appearances": [
+      {
+        "year": 2013,
+        "rank": 43,
+        "net_worth_usd": 16.1
+      },
+      {
+        "year": 2014,
+        "rank": 23,
+        "net_worth_usd": 25
+      }
+    ],
+    "peak_rank": 23,
+    "peak_net_worth": 25,
+    "first_appeared": 2013,
+    "status": "在世",
+    "notes": "非洲首富，尼日利亚工业巨头"
+  },
+  {
+    "name_en": "Changpeng Zhao",
+    "name_cn": "赵长鹏",
+    "aliases": [
+      "CZ",
+      "Changpeng Zhao"
+    ],
+    "country": "加拿大",
+    "industry": "金融",
+    "main_company": "Binance",
+    "appearances": [
+      {
+        "year": 2024,
+        "rank": 23,
+        "net_worth_usd": 61.7
+      },
+      {
+        "year": 2025,
+        "rank": 45,
+        "net_worth_usd": 36.4
+      }
+    ],
+    "peak_rank": 23,
+    "peak_net_worth": 61.7,
+    "first_appeared": 2024,
+    "status": "在世",
+    "notes": "币安创始人，加密货币先驱"
+  },
+  {
+    "name_en": "Lukas Walton",
+    "name_cn": "卢卡斯·沃尔顿",
+    "aliases": [
+      "Lukas Walton"
+    ],
+    "country": "美国",
+    "industry": "零售",
+    "main_company": "Walmart",
+    "appearances": [
+      {
+        "year": 2024,
+        "rank": 41,
+        "net_worth_usd": 39.4
+      },
+      {
+        "year": 2025,
+        "rank": 40,
+        "net_worth_usd": 38.4
+      }
+    ],
+    "peak_rank": 40,
+    "peak_net_worth": 39.4,
+    "first_appeared": 2024,
+    "status": "在世",
+    "notes": "John Walton之子，沃尔玛家族第三代"
+  },
+  {
+    "name_en": "Eric Schmidt",
+    "name_cn": "埃里克·施密特",
+    "aliases": [
+      "Eric E. Schmidt"
+    ],
+    "country": "美国",
+    "industry": "科技",
+    "main_company": "Alphabet (Google)",
+    "appearances": [
+      {
+        "year": 2024,
+        "rank": 50,
+        "net_worth_usd": 33.4
+      }
+    ],
+    "peak_rank": 50,
+    "peak_net_worth": 33.4,
+    "first_appeared": 2024,
+    "status": "在世",
+    "notes": "Google前CEO，Alphabet前执行董事长"
+  },
+  {
+    "name_en": "Lei Jun",
+    "name_cn": "雷军",
+    "aliases": [
+      "Lei Jun"
+    ],
+    "country": "中国",
+    "industry": "科技",
+    "main_company": "Xiaomi",
+    "appearances": [
+      {
+        "year": 2025,
+        "rank": 42,
+        "net_worth_usd": 37.5
+      }
+    ],
+    "peak_rank": 42,
+    "peak_net_worth": 37.5,
+    "first_appeared": 2025,
+    "status": "在世",
+    "notes": "小米创始人兼CEO"
+  },
+  {
+    "name_en": "Rodolphe Saade",
+    "name_cn": "鲁道夫·萨阿德",
+    "aliases": [
+      "Rodolphe Saade & family"
+    ],
+    "country": "法国",
+    "industry": "制造",
+    "main_company": "CMA CGM",
+    "appearances": [
+      {
+        "year": 2025,
+        "rank": 50,
+        "net_worth_usd": 33.5
+      }
+    ],
+    "peak_rank": 50,
+    "peak_net_worth": 33.5,
+    "first_appeared": 2025,
+    "status": "在世",
+    "notes": "达飞海运集团CEO"
+  }
+]
