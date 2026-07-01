@@ -1,0 +1,28 @@
+{
+  "runId": "wf_c20370b4-3bf",
+  "workflowName": "write-hurun-profiles",
+  "scriptPath": "/Users/allengaller/Documents/GitHub/allengaller/dana/.qoder/sessions/328e0c50-c889-4f85-97b1-2bb532166a96/workflows/scripts/write-hurun-profiles-wf_c20370b4-3bf.js",
+  "source": "inline",
+  "meta": {
+    "name": "write-hurun-profiles",
+    "description": "Write 15 detailed billionaire profiles for the Obsidian wiki based on research data",
+    "phases": [
+      {
+        "title": "Batch 1: Priority profiles",
+        "detail": "黄光裕, 马云, 马化腾, 丁磊, 宗庆后"
+      },
+      {
+        "title": "Batch 2: Internet & Real Estate",
+        "detail": "陈天桥, 李彦宏, 王健林, 许家印, 杨惠妍"
+      },
+      {
+        "title": "Batch 3: Manufacturing & Controversy",
+        "detail": "梁稳根, 王传福, 张茵, 何享健, 胡润魔咒案例群像"
+      }
+    ]
+  },
+  "createdAt": "2026-06-29T05:55:59.231Z",
+  "updatedAt": "2026-06-29T06:04:13.210Z",
+  "status": "completed",
+  "outputPath": "/Users/allengaller/Documents/GitHub/allengaller/dana/.qoder/sessions/328e0c50-c889-4f85-97b1-2bb532166a96/workflows/runs/wf_c20370b4-3bf/output.json"
+}

@@ -1,0 +1,20 @@
+{
+  "runId": "wf_c20370b4-3bf",
+  "taskId": "wf-c20370b4-3bf",
+  "workflowName": "write-hurun-profiles",
+  "status": "completed",
+  "logs": [
+    "All 15 profiles written successfully"
+  ],
+  "failures": [],
+  "agentCount": 15,
+  "totalToolCalls": 215,
+  "durationMs": 493973,
+  "usage": {
+    "agents": 15,
+    "toolCalls": 215,
+    "durationMs": 493973
+  },
+  "transcriptDir": "/Users/allengaller/Documents/GitHub/allengaller/dana/.qoder/sessions/328e0c50-c889-4f85-97b1-2bb532166a96/workflows/runs/wf_c20370b4-3bf",
+  "scriptPath": "/Users/allengaller/Documents/GitHub/allengaller/dana/.qoder/sessions/328e0c50-c889-4f85-97b1-2bb532166a96/workflows/scripts/write-hurun-profiles-wf_c20370b4-3bf.js"
+}

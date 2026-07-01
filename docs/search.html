@@ -1,0 +1,87 @@
+---
+layout: null
+title: 搜索
+---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>dana · 搜索</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; max-width: 800px; margin: 0 auto; padding: 2rem 1rem; color: #333; background: #fafafa; }
+    h1 { font-size: 1.5rem; margin-bottom: 1rem; }
+    h1 a { color: #666; text-decoration: none; }
+    h1 a:hover { color: #333; }
+    #search-input { width: 100%; padding: 0.75rem 1rem; font-size: 1rem; border: 2px solid #ddd; border-radius: 8px; outline: none; transition: border-color 0.2s; }
+    #search-input:focus { border-color: #4a90d9; }
+    #results { margin-top: 1.5rem; }
+    .result { padding: 1rem; margin-bottom: 0.75rem; background: #fff; border-radius: 8px; border: 1px solid #eee; }
+    .result h3 { font-size: 1.1rem; margin-bottom: 0.25rem; }
+    .result h3 a { color: #2c5282; text-decoration: none; }
+    .result h3 a:hover { text-decoration: underline; }
+    .result p { font-size: 0.9rem; color: #666; line-height: 1.5; }
+    .empty { color: #999; text-align: center; padding: 2rem; }
+    .badge { display: inline-block; background: #e8f0fe; color: #2c5282; font-size: 0.75rem; padding: 0.15rem 0.5rem; border-radius: 4px; margin-bottom: 0.5rem; }
+  </style>
+</head>
+<body>
+  <h1><a href="{{ '/' | relative_url }}">&larr; dana</a> &middot; 全文搜索</h1>
+  <input type="text" id="search-input" placeholder="输入关键词搜索所有页面..." autofocus>
+  <div id="results"><p class="empty">输入关键词开始搜索</p></div>
+
+  <script>
+    let data = [];
+    const input = document.getElementById('search-input');
+    const resultsDiv = document.getElementById('results');
+
+    fetch('{{ "/search.json" | relative_url }}')
+      .then(r => r.json())
+      .then(d => { data = d; })
+      .catch(() => { resultsDiv.innerHTML = '<p class="empty">索引加载失败</p>'; });
+
+    function search(query) {
+      if (!query || query.length < 1) {
+        resultsDiv.innerHTML = '<p class="empty">输入关键词开始搜索</p>';
+        return;
+      }
+      const terms = query.toLowerCase().split(/\s+/).filter(t => t.length > 0);
+      const matches = data.filter(page => {
+        const text = (page.title + ' ' + page.content).toLowerCase();
+        return terms.every(t => text.includes(t));
+      }).slice(0, 20);
+
+      if (matches.length === 0) {
+        resultsDiv.innerHTML = '<p class="empty">未找到匹配结果</p>';
+        return;
+      }
+
+      resultsDiv.innerHTML = matches.map(page => {
+        let snippet = page.content;
+        for (const t of terms) {
+          const idx = snippet.toLowerCase().indexOf(t);
+          if (idx > -1) {
+            const start = Math.max(0, idx - 40);
+            const end = Math.min(snippet.length, idx + t.length + 80);
+            snippet = (start > 0 ? '...' : '') + snippet.slice(start, end) + (end < page.content.length ? '...' : '');
+            break;
+          }
+        }
+        if (snippet.length > 160) snippet = snippet.slice(0, 160) + '...';
+        return '<div class="result"><h3><a href="' + page.url + '">' + page.title + '</a></h3><p>' + snippet + '</p></div>';
+      }).join('');
+    }
+
+    let timer;
+    input.addEventListener('input', () => {
+      clearTimeout(timer);
+      timer = setTimeout(() => search(input.value.trim()), 200);
+    });
+
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get('q');
+    if (q) { input.value = q; search(q); }
+  </script>
+</body>
+</html>

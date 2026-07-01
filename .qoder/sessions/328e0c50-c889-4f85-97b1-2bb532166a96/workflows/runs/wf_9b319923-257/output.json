@@ -1,0 +1,20 @@
+{
+  "runId": "wf_9b319923-257",
+  "taskId": "wf-9b319923-257",
+  "workflowName": "hurun-profiles-batch1",
+  "status": "completed",
+  "logs": [
+    "All 10 profiles created successfully"
+  ],
+  "failures": [],
+  "agentCount": 10,
+  "totalToolCalls": 309,
+  "durationMs": 1771718,
+  "usage": {
+    "agents": 10,
+    "toolCalls": 309,
+    "durationMs": 1771718
+  },
+  "transcriptDir": "/Users/allengaller/Documents/GitHub/allengaller/dana/.qoder/sessions/328e0c50-c889-4f85-97b1-2bb532166a96/workflows/runs/wf_9b319923-257",
+  "scriptPath": "/Users/allengaller/Documents/GitHub/allengaller/dana/.qoder/sessions/328e0c50-c889-4f85-97b1-2bb532166a96/workflows/scripts/hurun-profiles-batch1-wf_9b319923-257.js"
+}

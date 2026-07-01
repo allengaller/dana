@@ -1,0 +1,48 @@
+{
+  "runId": "wf_ed4a9508-b90",
+  "workflowName": "forbes-billionaire-profiles",
+  "scriptPath": "/Users/allengaller/Documents/GitHub/allengaller/dana/.qoder/sessions/328e0c50-c889-4f85-97b1-2bb532166a96/workflows/scripts/forbes-billionaire-profiles-wf_ed4a9508-b90.js",
+  "source": "inline",
+  "args": {
+    "output_dir": "/Users/allengaller/Documents/GitHub/allengaller/dana/人物志/富豪榜/福布斯全球",
+    "people": [
+      "Elon Musk",
+      "Jeff Bezos",
+      "Mark Zuckerberg",
+      "Bernard Arnault",
+      "Jensen Huang",
+      "Larry Page",
+      "Sergey Brin",
+      "Amancio Ortega",
+      "Francoise Bettencourt Meyers",
+      "Michael Bloomberg",
+      "Stephen Schwarzman",
+      "Ken Griffin",
+      "Mukesh Ambani",
+      "Gautam Adani",
+      "Changpeng Zhao"
+    ]
+  },
+  "meta": {
+    "name": "forbes-billionaire-profiles",
+    "description": "Research and write detailed profiles for 15 Forbes Top 50 billionaires (2013-2025)",
+    "phases": [
+      {
+        "title": "Research & Write Batch 1",
+        "detail": "Musk, Bezos, Zuckerberg, Arnault, Jensen Huang"
+      },
+      {
+        "title": "Research & Write Batch 2",
+        "detail": "Page, Brin, Ortega, Bettencourt Meyers, Bloomberg"
+      },
+      {
+        "title": "Research & Write Batch 3",
+        "detail": "Schwarzman, Griffin, Ambani, Adani, CZ"
+      }
+    ]
+  },
+  "createdAt": "2026-06-29T05:49:21.450Z",
+  "updatedAt": "2026-06-29T06:21:37.490Z",
+  "status": "completed",
+  "outputPath": "/Users/allengaller/Documents/GitHub/allengaller/dana/.qoder/sessions/328e0c50-c889-4f85-97b1-2bb532166a96/workflows/runs/wf_ed4a9508-b90/output.json"
+}

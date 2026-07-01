@@ -1,0 +1,33 @@
+{% assign url_parts = page.url | split: '/' %}
+{% if url_parts.size > 2 %}
+<nav class="breadcrumbs" aria-label="面包屑">
+  <ol class="breadcrumb-list">
+    <li><a href="{{ '/' | relative_url }}">首页</a></li>
+    {% assign current_path = '' %}
+    {% for part in url_parts %}
+      {% if part != '' and forloop.last == false %}
+        {% assign current_path = current_path | append: '/' | append: part %}
+        <li class="breadcrumb-sep">/</li>
+        <li>
+          {% assign check_path = current_path | append: '/' %}
+          {% assign found = false %}
+          {% for p in site.pages %}
+            {% if p.url == check_path or p.url == current_path %}
+              <a href="{{ p.url | relative_url }}">{{ p.title | default: part }}</a>
+              {% assign found = true %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+          {% unless found %}
+            <span>{{ part }}</span>
+          {% endunless %}
+        </li>
+      {% endif %}
+    {% endfor %}
+    {% if page.title %}
+    <li class="breadcrumb-sep">/</li>
+    <li class="breadcrumb-current">{{ page.title }}</li>
+    {% endif %}
+  </ol>
+</nav>
+{% endif %}

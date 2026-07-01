@@ -23,16 +23,21 @@ from collections import defaultdict
 # 项目根目录（脚本位于 tools/，向上退一级）
 ROOT = Path(__file__).resolve().parent.parent
 # 忽略的路径
-IGNORE_DIRS = {'.git', 'tools', 'docs'}
+IGNORE_DIRS = {'.git', 'tools', 'docs', '.github', '模板', '富豪榜'}
+# 忽略的根目录文件（项目级文档，非知识库内容）
+IGNORE_ROOT_FILES = {'README.md', 'CONTRIBUTING.md'}
 
 
 def find_md_files():
-    """递归查找所有 Markdown 文件（排除忽略目录）"""
+    """递归查找所有 Markdown 文件（排除忽略目录和根目录项目文件）"""
     md_files = []
     for path in ROOT.rglob('*.md'):
         # 检查是否在忽略目录中
         rel = path.relative_to(ROOT)
         if any(part in IGNORE_DIRS for part in rel.parts[:-1]):
+            continue
+        # 跳过根目录下的项目级文档
+        if len(rel.parts) == 1 and rel.name in IGNORE_ROOT_FILES:
             continue
         md_files.append(rel)
     return sorted(md_files)

@@ -1,0 +1,24 @@
+{
+  "runId": "wf_9b319923-257",
+  "workflowName": "hurun-profiles-batch1",
+  "scriptPath": "/Users/allengaller/Documents/GitHub/allengaller/dana/.qoder/sessions/328e0c50-c889-4f85-97b1-2bb532166a96/workflows/scripts/hurun-profiles-batch1-wf_9b319923-257.js",
+  "source": "inline",
+  "meta": {
+    "name": "hurun-profiles-batch1",
+    "description": "Create 10 Hurun billionaire profiles in parallel worktrees",
+    "phases": [
+      {
+        "title": "Priority Profiles",
+        "detail": "王卫, 张志东, 汪滔, 陈天石, 秦英林, 郑家纯"
+      },
+      {
+        "title": "Remaining Profiles",
+        "detail": "庞康, 严昊, 钟慧娟, 周群飞"
+      }
+    ]
+  },
+  "createdAt": "2026-06-29T08:48:09.180Z",
+  "updatedAt": "2026-06-29T09:17:40.908Z",
+  "status": "completed",
+  "outputPath": "/Users/allengaller/Documents/GitHub/allengaller/dana/.qoder/sessions/328e0c50-c889-4f85-97b1-2bb532166a96/workflows/runs/wf_9b319923-257/output.json"
+}

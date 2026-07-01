@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git log --oneline -20 2>&1 && echo \"---\" && git remote -v 2>&1)",
+      "Bash(git branch -a 2>&1 && echo \"---\" && git status 2>&1 | head -20)",
+      "Bash(find /Users/allengaller/Documents/GitHub/allengaller/dana -name \"*.md\" -not -path \"*/.git/*\" -not -path \"*/docs/*\" -not -path \"*/tools/*\" 2>/dev/null | wc -l && echo \"---\" && find /Users/allengaller/Documents/GitHub/allengaller/dana -name \"*.md\" -not -path \"*/.git/*\" 2>/dev/null | xargs wc -c 2>/dev/null | tail -1 && echo \"---\" && find /Users/allengaller/Documents/GitHub/allengaller/dana -name \"*.md\" -not -path \"*/.git/*\" 2>/dev/null | xargs wc -l 2>/dev/null | tail -1)",
+      "Bash(find . -type f -not -path \"./.git/*\" -not -path \"./.qoder/*\" 2>&1 | sort | head -150)",
+      "Bash(ls -la /Users/allengaller/Documents/GitHub/allengaller/dana/.github/ 2>&1 && echo \"---\" && ls -la /Users/allengaller/Documents/GitHub/allengaller/dana/案例研究/ 2>&1 && echo \"---\" && ls /Users/allengaller/Documents/GitHub/allengaller/dana/.github/workflows 2>&1)",
+      "Bash(ls /Users/allengaller/Documents/GitHub/allengaller/dana/案例研究/ 2>/dev/null; ls /Users/allengaller/Documents/GitHub/allengaller/dana/方法论与框架/)",
+      "Bash(ls /Users/allengaller/Documents/GitHub/allengaller/dana/人物志/中国大拿/ && echo \"---\" && ls /Users/allengaller/Documents/GitHub/allengaller/dana/人物志/全球视野/ && echo \"---\" && ls /Users/allengaller/Documents/GitHub/allengaller/dana/人物志/教育与社区型/)",
+      "Bash(cd /Users/allengaller/Documents/GitHub/allengaller/dana && python3 tools/audit.py --check-links 2>&1 | head -80)",
+      "Bash(cd /Users/allengaller/Documents/GitHub/allengaller/dana && mv \"心法与原则/项目驱动学习法.md\" \"方法论与框架/项目驱动学习法.md\" && mv \"心法与原则/源码阅读与造轮子策略.md\" \"方法论与框架/源码阅读与造轮子策略.md\" && echo \"moved\" && ls 方法论与框架/)",
+      "Bash(python3 tools/audit.py --check-links 2>&1 | grep -E \"\\(broken|✅ 所有|❌\\)\")",
+      "Bash(mv \"心法与原则/第二大脑 for 技术人.md\" \"方法论与框架/第二大脑 for 技术人.md\" && mv \"心法与原则/写作与分享的杠杆.md\" \"方法论与框架/写作与分享的杠杆.md\" && echo \"moved\" && ls 方法论与框架/)",
+      "Bash(python3 tools/audit.py --all 2>&1 | grep -E \"\\(broken|✅ 所有|❌|Markdown 文件|Canvas|总字符\\)\")",
+      "Bash(python3 tools/audit.py --check-frontmatter 2>&1 | tail -40)",
+      "Bash(python3 tools/audit.py --check-frontmatter 2>&1 | grep \"→\" | head -20)",
+      "Bash(python3 tools/audit.py --all 2>&1)",
+      "Bash(python3 tools/audit.py --all 2>&1 | grep -E \"\\(broken|✅ 所有|❌|Markdown 文件数|Canvas 文件|总字符\\)\")"
+    ]
+  }
+}

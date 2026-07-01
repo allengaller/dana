@@ -1,0 +1,17 @@
+---
+layout: null
+---
+[
+{% assign first = true %}
+{% for file in site.pages %}
+  {% if file.name != 'search.json' and file.name != 'search.html' and file.ext == '.md' %}
+  {% unless first %},{% endunless %}
+  {% assign first = false %}
+  {
+    "title": {{ file.title | default: file.name | jsonify }},
+    "url": {{ file.url | jsonify }},
+    "content": {{ file.content | strip_html | strip_newlines | normalize_whitespace | jsonify }}
+  }
+  {% endif %}
+{% endfor %}
+]

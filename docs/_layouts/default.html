@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  {% include nav.html %}
+
+  <div class="page-wrapper">
+    {% include sidebar.html %}
+
+    <main class="main-content" id="main-content">
+      {% include breadcrumbs.html %}
+      {{ content }}
+    </main>
+  </div>
+
+  {% include footer.html %}
+
+  <button class="theme-toggle" id="theme-toggle" title="切换暗色模式" aria-label="切换暗色模式">
+    <span class="theme-icon">🌙</span>
+  </button>
+
+  <script src="{{ '/assets/js/nav.js' | relative_url }}"></script>
+</body>
+</html>

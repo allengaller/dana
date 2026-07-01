@@ -1,0 +1,19 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-links">
+      <a href="https://github.com/allengaller/dana" target="_blank" rel="noopener">GitHub</a>
+      <span class="footer-sep">&middot;</span>
+      <a href="{{ '/更新日志.html' | relative_url }}">更新日志</a>
+      <span class="footer-sep">&middot;</span>
+      <a href="{{ '/ROADMAP.html' | relative_url }}">路线图</a>
+      <span class="footer-sep">&middot;</span>
+      <a href="{{ '/CONTRIBUTING.html' | relative_url }}">参与贡献</a>
+    </div>
+    {% if page.path %}
+    <div class="footer-edit">
+      <a href="https://github.com/allengaller/dana/edit/master/{{ page.path }}" target="_blank" rel="noopener">编辑本页</a>
+    </div>
+    {% endif %}
+    <p class="footer-copy">dana &middot; 研究大拿 &middot; 成为大拿</p>
+  </div>
+</footer>
